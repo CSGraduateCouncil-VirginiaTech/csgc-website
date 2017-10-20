@@ -4,4 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-The nomination form for CS Grad Council positions can be found [here](https://goo.gl/forms/RrUwcIDPgUFHJak82)
+
+* [Nomination form for CS Grad Council positions](https://goo.gl/forms/RrUwcIDPgUFHJak82).
+* [Survey for requesting travel funds](https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l)
+
