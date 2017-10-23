@@ -6,7 +6,7 @@ permalink: /travel_funding/
 
 The department has a process in place whereby CS graduate students can request 
 partial support from the department for travel to conferences. Requests will be 
-reviewed and (mostly) granted on a rolling bases, through a simple survey:
+reviewed and (mostly) granted on a rolling basis, through a simple survey:
 
 [https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l](https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l)
 
@@ -15,7 +15,7 @@ reviewed and (mostly) granted on a rolling bases, through a simple survey:
 Our goal is to help support any student who has a refereed paper or
 presentation accepted at a conference **once per fiscal year** (July 1
 through June 30). The 1st day of your trip defines which fiscal year it
-is in).
+is in.
 
 Requests for support for additional trips in a given year, or for
 conference attendance without a presentation, will be considered but
