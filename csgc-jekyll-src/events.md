@@ -20,10 +20,10 @@ We'll fill this in soon!
 
 The CS Grad Council is pleased to invite you to *Qualifier Q&A and Pizza*, so you can learn about the CS PhD qualifying process from students who have already qualified.
 
-*What*: Qualifier Q&A and Pizza
-*When*: Thursday, December 7, 7-8PM
-*Where*: GLC Room B
-*Food*: We'll be serving pizza, etc. from one of Blacksburg's "upscale" options -- Mellow Mushroom or Beast of Blacksburg.
+- *What*: Qualifier Q&A and Pizza
+- *When*: Thursday, December 7, 7-8PM
+- *Where*: GLC Room B
+- *Food*: We'll be serving pizza, etc. from one of Blacksburg's "upscale" options -- Mellow Mushroom or Beast of Blacksburg.
 
 If you haven't yet taken the qualifier exam, this is a great opportunity to ask questions and to learn from others' experiences.
 If you'd like to pass the qualifier on research points, we'll be talking about that too.
