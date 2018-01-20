@@ -12,7 +12,7 @@ Once you have decided to host an event, you need to obtain an estimate for how m
 This helps with deciding a budget.
 An easy way to do this is to send out a Google Form a week or two in advance.
 
-Once you have an estimated number of attendees, come up with a reasonable budget and contact [Libby Bradford](bradfolg@vt.edu).
+Once you have an estimated number of attendees, come up with a reasonable budget and contact [Libby Bradford](mailto:bradfolg@vt.edu).
 She will confirm the budget, among other things.
 
 **Venue**
@@ -33,5 +33,5 @@ To be reimbursed, you need the following:
 * (preferred) some kind of evidence that the event actually took place as planned
 
 Other resources for events and reimbursements:
-* [Libby Bradford](bradfolg@vt.edu)
-* [Teresa Hall](teresa@vt.edu)
+* [Libby Bradford](mailto:bradfolg@vt.edu)
+* [Teresa Hall](mailto:teresa@vt.edu)
