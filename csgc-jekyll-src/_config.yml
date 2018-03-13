@@ -19,6 +19,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Computer Science Graduate Council at Virginia Tech
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://csgrad.cs.vt.edu" # the base hostname & protocol for your site, e.g. http://example.com
+main_pages:
+  - url: "/constitution_minutes/"
+    title: "Constitution and Minutes"
+  - url: "/events/"
+    title: "Events"
+  - url: "/links/"
+    title: "Links"
+  - url: "/ReadingGroups/"
+    title: "Reading Groups"
+  - url: "/travel_funding/"
+    title: "Travel Funding"
 twitter_username: 
 github_username:  
 
