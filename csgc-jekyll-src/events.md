@@ -12,7 +12,23 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 ## Spring 2018
 
-We'll fill this in soon!
+### Computer Science Graduate Town Hall: Apr. 19, 2018
+
+The CS Grad Council is pleased to invite you to the *1st Annual(?) Computer Science Graduate Town Hall*.
+
+- *What*: Town Hall and Pizza
+- *When*: Thursday, April 19, 6:30-8:00PM
+- *Where*: GLC Room F
+- *Food*: We'll be serving pizza, drinks, and snacks
+
+
+Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, along with some recent history and future aspirations.
+
+Ask questions, and propose changes to the department. Eat pizza.
+
+If you are coming: Please fill out [this form](https://goo.gl/forms/sbdfzk5aRyidxOdg1) so we can estimate food and seating.
+
+For our friends in Northern Virginia, we'll arrange remote access to the event. As always, no remote access to our pizza will be provided.
 
 ## Fall 2017
 
