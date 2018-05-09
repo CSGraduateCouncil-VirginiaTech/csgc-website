@@ -17,4 +17,8 @@ permalink: /resources/
 * [Logo Guidelines](https://vt.edu/brand/resources/logo-guidelines.html)
 * [Web Logos](https://vt.edu/brand/resources/downloads.html)
 * [Letterhead Template](https://www.overleaf.com/latex/templates/virginia-tech-letterhead-template/wgzftxptdjrd)
-* <iframe src='assets/logos/vt_inline_ce_computer_science.pdf' frameBorder='0'></iframe>
+
+<img src='/assets/logos/vt_inline_ce_computer_science.png'/>
+<img src='/assets/logos/vt_inline_computer_science.png'/>
+<img src='/assets/logos/vt_logo_inline.png'/>
+<img src='/assets/logos/vt_logo.png'/>
