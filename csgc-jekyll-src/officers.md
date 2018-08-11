@@ -4,20 +4,24 @@ title: Officers
 permalink: /Officers/
 ---
 
-Here are the officers of the CS Grad Student Council, with a brief biography.
+Here are the 2018-2019 officers of the CS Grad Student Council, with a brief biography.
 
-# John Wenskovitch, President
+# [Jamie Davis](http://people.cs.vt.edu/~davisjam/), President
 
-John has permission to send emails to the entire CS graduate student population.
+Jamie looks official.
 
-# Thomas Lux, Vice President
+# [Ayaan Kazerouni](http://people.cs.vt.edu/ayaan/), Vice President
 
-Thomas is here in case John dies.
+Ayaan is here in case Jamie dies.
 
-# Jamie Davis, Secretary
+# [Michelle Dowling](http://people.cs.vt.edu/~dowlingm/), Secretary
 
-Jamie makes sure we always have an agenda before our meetings and minutes afterwards.
+Michelle makes sure our meetings have an agenda and minutes.
 
-# Ayaan Kazerouni, Treasurer
+# [Negin Forouzesh](https://neginlowen.wixsite.com/neginf), Treasurer
 
-Ayaan makes it rain.
+Negin makes it rain.
+
+# [John Wenskovitch](http://johnwenskovitch.com/), Past President
+
+John is wise.
