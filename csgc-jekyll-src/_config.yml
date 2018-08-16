@@ -26,8 +26,6 @@ main_pages:
     title: "Events"
   - url: "/resources/"
     title: "Resources"
-  - url: "/ReadingGroups/"
-    title: "Reading Groups"
   - url: "/travel_funding/"
     title: "Travel Funding"
 twitter_username: 

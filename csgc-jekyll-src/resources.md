@@ -11,6 +11,7 @@ permalink: /resources/
 
 ## Links
 
+* [Departmental Research Resources](https://cs.vt.edu/Research.html): The department maintains a list of research areas, labs, centers, and reading groups, along with points of contact for each.
 * [Survey for requesting travel funds](https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l)
 * [Nomination form for CS Grad Council positions](https://goo.gl/forms/RrUwcIDPgUFHJak82).
 * [Grad Council officers](/Officers/)
