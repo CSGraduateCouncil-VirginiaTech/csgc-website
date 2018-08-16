@@ -4,13 +4,18 @@ title: Resources
 permalink: /resources/
 ---
 
+## Points of contact 
+
+* Please don't hesitate to [email any of us](/Officers/)!
+* [CS@VT Grad Students Facebook Group](www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here
+
 ## Links
 
-* [Nomination form for CS Grad Council positions](https://goo.gl/forms/RrUwcIDPgUFHJak82).
 * [Survey for requesting travel funds](https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l)
+* [Nomination form for CS Grad Council positions](https://goo.gl/forms/RrUwcIDPgUFHJak82).
 * [Grad Council officers](/Officers/)
 * [Information about organizing events](/events/organizing-an-event)
-* [Center for Instructional Development and Educational Research](/cider/)
+* [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
 
 ## Department Logo
 
