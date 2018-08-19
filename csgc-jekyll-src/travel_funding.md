@@ -8,6 +8,7 @@ permalink: /travel_funding/
 
 The department offers some financial support for CS graduate students to attend conferences.
 Requests will be reviewed and (mostly) granted on a rolling basis.
+If you submit the survey and don't hear back for a few days, please contact the [Treasurer](/Officers/) by email directly.
 
 See below under "Policy" to see if you qualify.
 If so, fill out this survey.
@@ -49,5 +50,5 @@ There are other sources of travel funding.
 
 Some conferences have travel support. See the website of the conference you are planning to attend.
 
-- Many SIG conferences implement the ACM Student Volunteer Program. Conference fee is waived, need to volunteer 20 hours, get lunch+dinner for the week, need to pay for travel/lodging.
+- Many SIG conferences implement the ACM Student Volunteer Program. Volunteers typically receive some travel allowance and a conference registration fee waiver.
 - Many ACM conferences offer travel funding for students presenting research or competing in a Student Research Competition.
