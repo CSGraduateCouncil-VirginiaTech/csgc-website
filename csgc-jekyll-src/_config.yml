@@ -28,6 +28,8 @@ main_pages:
     title: "Resources"
   - url: "/travel_funding/"
     title: "Travel Funding"
+  - url: "/Officers/"
+    title: "Officers"
 twitter_username: 
 github_username:  
 

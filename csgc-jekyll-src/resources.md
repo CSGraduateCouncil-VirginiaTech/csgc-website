@@ -7,7 +7,7 @@ permalink: /resources/
 ## Points of contact 
 
 * Please don't hesitate to [email any of us](/Officers/)!
-* [CS@VT Grad Students Facebook Group](www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here
+* [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here
 
 ## Links
 

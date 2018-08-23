@@ -7,7 +7,7 @@ title: About CS Grad Council
 ---
 
 The Graduate Council (GC) represents the interests of the CS graduate student body both within the department and outside.
-We represent the student body during faculty meetings within the department, help organize social events among graduate students and aid incoming students become familiar with deparmental procedures and acitivities.
+We represent the student body during faculty meetings within the department, help organize social events among graduate students, and help incoming students become familiar with departmental procedures and activities.
 Outside the department, we voice student opinions in various graduate school forums and promote social engagements with the wider graduate student community.
 
 Here are some of our activities:
