@@ -36,3 +36,4 @@ Feel free to use one of them as a template for your next talk.
 
 1. Jamie Davis's "Event Handler Poisoning" slides: [Powerpoint](/assets/presentation-templates/DavisWilliamsonLee-USENIXSecurity-SenseOfTime-NodeCure-v4.1.pptx)
 2. Tyler Chang's "Poly-Time Multivariate Interpolation via the DLT" slides: [PDF](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.pdf), [Beamer source](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.tgz)
+3. Thomas Lux's "Novel Meshes for Multivariate Interpolation and Approximation" slides: [PDF](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.pdf), [Keynote](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.key)
