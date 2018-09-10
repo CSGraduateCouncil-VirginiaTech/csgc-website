@@ -10,6 +10,17 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 # Events
 
+## Fall 2018
+
+### Lightning Talks: Sept. 6, 2018
+
+The CS Grad Council is pleased to invite you to the Fall edition of our Lightning Talks event.
+
+- *What*: Lightning Talks: 3-5 minute talks about research
+- *When*: Thursday, Sept. 6, 6:00-8:00PM
+- *Where*: GLC Room F
+- *Food*: We'll be serving pizza, drinks, and cookies
+
 ## Spring 2018
 
 ### Computer Science Graduate Town Hall: Apr. 19, 2018
@@ -20,7 +31,6 @@ The CS Grad Council is pleased to invite you to the *1st Annual(?) Computer Scie
 - *When*: Thursday, April 19, 6:30-8:00PM
 - *Where*: GLC Room F
 - *Food*: We'll be serving pizza, drinks, and snacks
-
 
 Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, along with some recent history and future aspirations.
 
