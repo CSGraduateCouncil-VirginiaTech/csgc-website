@@ -35,3 +35,24 @@ To be reimbursed, you need the following:
 Other resources for events and reimbursements:
 * [Libby Bradford](mailto:bradfolg@vt.edu)
 * [Teresa Hall](mailto:teresa@vt.edu)
+
+**Advertising**
+
+- Send surveys of interest and sign-ups embedded in emails.
+  - Sign-up surveys should include:
+	    - Email address
+      - whether they are remote (NOVA) (need video conferencing)
+- Send Google Calendar invitations to the email addresses of those who fill out the sign-up survey.
+- Word of mouth works. People don't always read bburg-gradstudents emails.
+- Blacksburg-based students cannot email the NOVA list. Ask Dr. Shaffer to propagate emails there.
+
+**Lessons learned**
+
+Buy food for 10 more people than RSVP'd up.
+
+Domino's:
+- 18 large pizzas serves 50 people
+
+Drinks:
+- Don't keep them in your car all day
+- Cans are better than bottles + cups
