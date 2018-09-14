@@ -21,6 +21,8 @@ The CS Grad Council is pleased to invite you to the Fall edition of our Lightnin
 - *Where*: GLC Room F
 - *Food*: We'll be serving pizza, drinks, and cookies
 
+Slides from the presenters are available [here](https://drive.google.com/open?id=13XGLKy5GpNI1gPxPwn8DkEiBMGU4EniX).
+
 ## Spring 2018
 
 ### Computer Science Graduate Town Hall: Apr. 19, 2018
