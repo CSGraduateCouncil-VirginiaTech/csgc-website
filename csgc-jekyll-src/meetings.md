@@ -5,7 +5,7 @@ permalink: /meetings/
 ---
 
 ## Regular meetings
-* *When*: Thursdays, 4:30pm (next is TBD)
+* *When*: Thursdays, 4:30pm (next is September 20)
 * *Where*: Torgersen 3160A (If the door is locked, please knock and someone will let you in)
 
 ## Minutes and Constitution
