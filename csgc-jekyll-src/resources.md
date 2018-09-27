@@ -17,6 +17,7 @@ permalink: /resources/
 * [Grad Council officers](/Officers/)
 * [Information about organizing events](/events/organizing-an-event)
 * [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
+* [CS grad student directory](https://hosting.cs.vt.edu/gpc/#/graduate): Look up fellow CS graduate students. Currently you must sign in to view the directory due to a combination of Virginia law and CS@VT website configuration.
 
 ## Department Logo
 
