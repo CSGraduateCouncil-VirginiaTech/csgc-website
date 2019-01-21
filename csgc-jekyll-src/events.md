@@ -12,6 +12,29 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 ## Fall 2018
 
+### Qualifier Q&A and Pizza: Nov. 15, 2018
+
+The CS Grad Council is pleased to invite you to *Qualifier Q&A and Pizza*, so you can learn about the CS PhD qualifying process from students who have already qualified.
+
+- *What*: Qualifier Q&A and Pizza
+- *When*: Thursday, Nov. 15, 6:30-7:30PM
+- *Where*: GLC Room F
+- *Food*: We'll be serving pizza from Mellow Mushroom
+
+If you haven't yet taken the qualifier exam, this is a great opportunity to ask questions and to learn from others' experiences.
+If you'd like to pass the qualifier on research points, we'll be talking about that too.
+
+### Community Building: Nov. 9, 2018
+
+The CS Grad Council is pleased to invite you to CS Grad Student Community Building in an effort to bring CS grad students together and better connect the department together as a whole. 
+
+- *What*: CS Grad Student Community Building
+- *When*: Friday, November 9, 12-2PM
+- *Where*: McBryde Hall Room 655
+- *Food*: We’ll be serving a few snacks and drinks, like donuts and coffee
+
+Whether you’re a new student looking to make more friends in the CS department or an older student looking to meet some new people, come join us for a quirky but fun community building event. Dr. Patty Raun from the Theater department will be guiding us through activities designed to help us break out of our shells and get to know each other better. Dr. Raun also helps run the Communicating Science course, so she will be adapting activities from her class for our purposes in this event.
+
 ### Lightning Talks: Sept. 6, 2018
 
 The CS Grad Council is pleased to invite you to the Fall edition of our Lightning Talks event.
