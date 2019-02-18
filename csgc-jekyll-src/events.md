@@ -10,6 +10,20 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 # Events
 
+## Spring 2019
+
+### Academic Jobs: Feb. 21, 2019
+
+Grad Council is hosting a Q&A Panel about obtaining, preparing for, and excelling at academic jobs.
+The panelists are six faculty members with a range of experience: assistant professors, newly hired assistant professors, and professors who have served on search committees for faculty candidates.
+
+- *What*: Academic Jobs and Pizza
+- *When*: Thursday, Feb. 21, 6 - 8 PM
+- *Where*: McBryde 655
+- *Food*: We'll be serving pizza from Mellow Mushroom
+
+If you might want to be a faculty member someday, this is a great event to attend!
+
 ## Fall 2018
 
 ### Qualifier Q&A and Pizza: Nov. 15, 2018
@@ -19,7 +33,7 @@ The CS Grad Council is pleased to invite you to *Qualifier Q&A and Pizza*, so yo
 - *What*: Qualifier Q&A and Pizza
 - *When*: Thursday, Nov. 15, 6:30-7:30PM
 - *Where*: GLC Room F
-- *Food*: We'll be serving pizza from Mellow Mushroom
+- *Food*: We'll be serving pizza from (Domino's?)
 
 If you haven't yet taken the qualifier exam, this is a great opportunity to ask questions and to learn from others' experiences.
 If you'd like to pass the qualifier on research points, we'll be talking about that too.
