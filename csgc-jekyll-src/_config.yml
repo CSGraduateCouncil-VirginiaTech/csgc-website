@@ -30,8 +30,10 @@ main_pages:
     title: "Travel Funding"
   - url: "/Officers/"
     title: "Officers"
-twitter_username: 
-github_username:  
+  - url: "/Housing/"
+    title: "Housing"
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
