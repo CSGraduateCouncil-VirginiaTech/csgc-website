@@ -19,6 +19,14 @@ permalink: /resources/
 * [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
 * [CS grad student directory](https://hosting.cs.vt.edu/gpc/#/graduate): Look up fellow CS graduate students. Currently you must sign in to view the directory due to a combination of Virginia law and CS@VT website configuration.
 
+## Academic Links
+* [VT Computer Science](https://cs.vt.edu/): The main page for the Computer Science department.
+* [Graduate Handbook](https://cs.vt.edu/Academics/Graduate/Handbook0.html): The handbook webpage providing resources and urls to the different graduate degrees available.
+* [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html): The page that contains a list of student groups.
+* [GTA Form](https://hosting.cs.vt.edu/gta/): The website to be able to apply for a GTA for the pertinent semester.
+* [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses/): The website containing information about future Advanced Courses.
+* [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest): An open website to search for classes.
+
 ## Department Logo
 
 * [Logo Guidelines](https://vt.edu/brand/resources/logo-guidelines.html)
