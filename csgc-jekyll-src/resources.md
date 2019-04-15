@@ -21,7 +21,7 @@ permalink: /resources/
 
 ## Academic Links
 * [VT Computer Science](https://cs.vt.edu/): The main page for the Computer Science department.
-* [Graduate Handbook](https://cs.vt.edu/Academics/Graduate/Handbook0.html): The handbook webpage providing resources and urls to the different graduate degrees available.
+* [Graduate Handbook](https://cs.vt.edu/Academics/Graduate/Handbook0.html): The handbook webpage providing resources and links to the different graduate degrees available.
 * [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html): The page that contains a list of student groups.
 * [GTA Form](https://hosting.cs.vt.edu/gta/): The website to be able to apply for a GTA for the pertinent semester.
 * [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses/): The website containing information about future Advanced Courses.
