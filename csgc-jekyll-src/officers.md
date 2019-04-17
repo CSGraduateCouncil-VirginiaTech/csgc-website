@@ -30,4 +30,4 @@ John is wise.
 
 ## GSA Representatives
 
-Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representatives are [Timothy Stelter](http://people.cs.vt.edu/~tstelter/) and [Aditya Pratapa](https://people.cs.vt.edu/adyprat/).
+Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representatives are [Timothy Stelter](http://people.cs.vt.edu/~tstelter/) and Mostafa Mohammed.
