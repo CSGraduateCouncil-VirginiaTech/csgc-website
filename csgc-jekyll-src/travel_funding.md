@@ -39,7 +39,7 @@ There are other sources of travel funding.
 
 ### Department
 
-- CHCI Funding, see [here](http://www.hci.vt.edu/funding.php). (website is being updated, link may become outdated soon)
+- CHCI Funding, see [instructions here](http://hci.vt.edu/programs/) about the Travel Funding Program
 
 ### Grad school
 
