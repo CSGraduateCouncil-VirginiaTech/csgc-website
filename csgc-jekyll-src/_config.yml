@@ -32,6 +32,8 @@ main_pages:
     title: "Officers"
   - url: "/Housing/"
     title: "Housing"
+#  - url: "https://cs-gsc-vt.slack.com" # TBD-?????????????????
+#    title: "Slack" 
 twitter_username:
 github_username:
 
