@@ -20,6 +20,9 @@ permalink: /resources/
 * [CS grad student directory](https://hosting.cs.vt.edu/gpc/#/graduate): Look up fellow CS graduate students. Currently you must sign in to view the directory due to a combination of Virginia law and CS@VT website configuration.
 
 ## Academic Links
+* [The Graduate Computer Science Website](https://cs.vt.edu/Graduate): The Informational Website.
+* [An administrative website for Computer Science](https://gpc.cs.vt.edu): Link for Plan Of Study and SAR Forms.
+* [Computer Science Intranet](https://admin.cs.vt.edu/): The link to the Computer Science Intranet.
 * [VT Computer Science](https://cs.vt.edu/): The main page for the Computer Science department.
 * [Graduate Handbook](https://cs.vt.edu/Academics/Graduate/Handbook0.html): The handbook webpage providing resources and links to the different graduate degrees available.
 * [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html): The page that contains a list of student groups.

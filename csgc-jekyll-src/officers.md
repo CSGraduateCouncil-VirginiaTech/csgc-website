@@ -4,29 +4,29 @@ title: Officers
 permalink: /Officers/
 ---
 
-# 2018-2019
+# 2019-2020
 
 ## Officers
 
-### [Jamie Davis](http://people.cs.vt.edu/~davisjam/), President
+### [Ayaan Kazerouni](https://people.cs.vt.edu/ayaan/), President
 
-Jamie looks official.
+Ayaan has taken control from Jamie.
 
-### [Ayaan Kazerouni](http://people.cs.vt.edu/ayaan/), Vice President
+### [Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home/), Vice President
 
-Ayaan is here in case Jamie dies.
+Makes sure Ayaan is on time.
 
-### [Michelle Dowling](http://people.cs.vt.edu/~dowlingm/), Secretary
+### [Frank Wanye](https://ffrankies.github.io/), Secretary
 
-Michelle makes sure our meetings have an agenda and minutes.
+Watches the watchers.
 
-### [Negin Forouzesh](https://neginlowen.wixsite.com/neginf), Treasurer
+### [Thomas Lux](https://people.cs.vt.edu/tchlux/), Treasurer
 
-Negin makes it rain.
+The money man.
 
-### [John Wenskovitch](http://johnwenskovitch.com/), Past President
+### [Jamie Davis](https://people.cs.vt.edu/~davisjam/), Past President
 
-John is wise.
+Jamie is wise.
 
 ## GSA Representatives
 
