@@ -5,8 +5,8 @@ permalink: /meetings/
 ---
 
 ## Regular meetings
-* *When*: ~~Generally, alternating Mondays, 5-6pm (next is January 28, 2019)~~<mark>To Be Finalized</mark>.
-* *Where*: ~~Torgersen 3160A (If the door is locked, please knock and someone will let you in)~~<mark>To Be Finalized</mark>.
+* *When*: Generally, alternating Mondays, 5:30pm-6:30pm (next is August 26th, 2019).
+* *Where*: Torgersen 3160A (If the door is locked, please knock and someone will let you in).
 
 See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) for the latest info.
 
