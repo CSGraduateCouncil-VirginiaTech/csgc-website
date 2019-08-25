@@ -32,6 +32,8 @@ main_pages:
     title: "Officers"
   - url: "/Housing/"
     title: "Housing"
+  - url: "/lab_representatives/"
+    title: "Lab Representatives"
 twitter_username:
 github_username:
 
