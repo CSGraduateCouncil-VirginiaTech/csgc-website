@@ -11,9 +11,7 @@ Requests will be reviewed and (mostly) granted on a rolling basis.
 If you submit the survey and don't hear back for a few days, please contact the [Treasurer](/Officers/) by email directly.
 
 See below under "Policy" to see if you qualify.
-If so, fill out this survey.
-
-[https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l](https://virginiatech.qualtrics.com/SE/?SID=SV_dgLcRAZnEDAnH2l)
+If so, fill out this [Travel Fund Request Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link).
 
 ### Policy
 
