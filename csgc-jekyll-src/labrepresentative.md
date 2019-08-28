@@ -23,6 +23,7 @@ Edward Fox | Amirsina Torfi
 Lenwood Heath | Ramya Nandigam
 Matthew Hicks | Stefan Nagy
 Bert Huang | Chidubem Arachie
+Anuj Karpatne | Mohannad Elhamod
 Chang-Tien Lu | Fanglan Chen
 Na Meng | Bowen She
 Tanushree Mitra | Shruti Phadke
