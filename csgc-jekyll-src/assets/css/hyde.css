@@ -66,6 +66,7 @@ html {
     left: 0;
     width: 18rem;
     text-align: left;
+    min-height: 100%;
   }
 }
 
