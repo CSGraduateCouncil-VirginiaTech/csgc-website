@@ -12,7 +12,7 @@ permalink: /Officers/
 
 Ayaan has taken control from Jamie.
 
-### [Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home/), Vice President
+### [Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Vice President
 
 Makes sure Ayaan is on time.
 
