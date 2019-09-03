@@ -4,9 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
-## Points of contact 
+## Social Media Links 
 
 * [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here.
+* [Social events Slack channel](https://join.slack.com/t/vtcsgradsummer19/shared_invite/enQtNjcwOTA4NTMzMzAyLTM4MzJhM2IzMGQ0ZWNiZmIzMGJmZjAxNjhhZWNlYmUzZjJlOTkxMjMzMmY5NDk4MzBjYTc5OGM4NTY4OWNmNmI): Students and Grad Council members use this to plan miscellaneous (informal) weekend trips and afternoons / evenings out. The name is currently pending revision, please ignore "Summer 2019" references.
 
 ## Department Links
 
