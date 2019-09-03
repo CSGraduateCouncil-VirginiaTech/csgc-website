@@ -4,30 +4,24 @@ title: Resources
 permalink: /resources/
 ---
 
-## Points of contact 
+## Social Media Links 
 
-* Please don't hesitate to [email any of us](/Officers/)!
-* [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here
+* [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here.
+* [Social events Slack channel](https://join.slack.com/t/vtcsgradsummer19/shared_invite/enQtNjcwOTA4NTMzMzAyLTM4MzJhM2IzMGQ0ZWNiZmIzMGJmZjAxNjhhZWNlYmUzZjJlOTkxMjMzMmY5NDk4MzBjYTc5OGM4NTY4OWNmNmI): Students and Grad Council members use this to plan miscellaneous (informal) weekend trips and afternoons / evenings out. The name is currently pending revision, please ignore "Summer 2019" references.
 
-## Links
+## Department Links
 
 * [Departmental Research Resources](https://cs.vt.edu/Research.html): The department maintains a list of research areas, labs, centers, and reading groups, along with points of contact for each.
-* [Survey for requesting travel funds](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link)
-* [Nomination form for CS Grad Council positions](https://goo.gl/forms/RrUwcIDPgUFHJak82).
-* [Grad Council officers](/Officers/)
-* [Information about organizing events](/events/organizing-an-event)
+* [Survey for requesting travel funds](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link).
 * [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
-* [CS grad student directory](https://hosting.cs.vt.edu/gpc/#/graduate): Look up fellow CS graduate students. Currently you must sign in to view the directory due to a combination of Virginia law and CS@VT website configuration.
 
 ## Academic Links
 * [The Graduate Computer Science Website](https://cs.vt.edu/Graduate): The Informational Website.
-* [An administrative website for Computer Science](https://gpc.cs.vt.edu): Link for Plan Of Study and SAR Forms.
-* [Computer Science Intranet](https://admin.cs.vt.edu/): The link to the Computer Science Intranet.
-* [VT Computer Science](https://cs.vt.edu/): The main page for the Computer Science department.
-* [Graduate Handbook](https://cs.vt.edu/Academics/Graduate/Handbook0.html): The handbook webpage providing resources and links to the different graduate degrees available.
+* [An administrative website for Computer Science](https://gpc.cs.vt.edu): Link for many important graduate links (including Plan of Study, Student lookup, etc...).
+* [Computer Science Intranet](https://admin.cs.vt.edu): The link to the Computer Science Intranet.
+* [VT Computer Science](https://cs.vt.edu/Graduate): The main page for the Computer Science department.
 * [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html): The page that contains a list of student groups.
-* [GTA Form](https://hosting.cs.vt.edu/gta/): The website to be able to apply for a GTA for the pertinent semester.
-* [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses/): The website containing information about future Advanced Courses.
+* [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses): The website containing information about future Advanced Courses.
 * [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest): An open website to search for classes.
 
 ## Department Logo
