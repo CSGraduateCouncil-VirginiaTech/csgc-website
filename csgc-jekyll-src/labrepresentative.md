@@ -13,7 +13,8 @@ A representative serves as a communication channel to the council and department
 Here is a list of faculty members and their representative. If you do not see your advisor in this list or you know someone in the CS department with an advisor who doesn't have a representative, please consider becoming or nominating a representative by filling out [this form](https://forms.gle/TAoSBQd59qu4bNjBA).
 
 Faculty Name | Representative Name
-:---: | :---: 
+:---: | :---:
+Students with no advisor | Arjun Choudhry, Becca Dworak, <br> Jesse Harden, Meena Lohani
 Doug Bowman | Shakiba Davari
 Ali Butt | Subil Abraham
 Kirk Cameron | Jon Bernard
