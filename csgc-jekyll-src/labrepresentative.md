@@ -26,6 +26,7 @@ Matthew Hicks | Stefan Nagy
 Bert Huang | Chidubem Arachie
 Anuj Karpatne | Mohannad Elhamod
 Chang-Tien Lu | Fanglan Chen
+Scott McCrickard | Derek Haqq
 Na Meng | Bowen She
 Tanushree Mitra | Shruti Phadke
 Chris North | Michelle Dowling

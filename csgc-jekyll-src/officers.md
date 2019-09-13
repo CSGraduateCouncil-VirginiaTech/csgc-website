@@ -30,4 +30,4 @@ Jamie is wise.
 
 ## GSA Representatives
 
-Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representatives are [Timothy Stelter](http://people.cs.vt.edu/~tstelter/) and Mostafa Mohammed.
+Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representatives are Mohannad Elhamod and Mostafa Mohammed.
