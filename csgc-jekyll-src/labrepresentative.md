@@ -10,7 +10,8 @@ A representative serves as a communication channel to the council and department
 
 ## Who are Lab Representatives?
 
-Here is a list of faculty members and their representative. If you do not see your advisor in this list or you know someone in the CS department with an advisor who doesn't have a representative, please consider becoming or nominating a representative by filling out [this form](https://forms.gle/TAoSBQd59qu4bNjBA).
+Here is a list of faculty members and their representative. If you do not see your advisor in this list or you know someone in the CS department with an advisor who doesn't have a representative, please consider becoming or nominating a representative by filling out [this form](https://forms.gle/TAoSBQd59qu4bNjBA). You can look up their email addresses on the [internal CS Graduate student directory](https://gpc.cs.vt.edu/#/graduate) after signing in.
+
 
 Faculty Name | Representative Name
 :---: | :---:
@@ -26,6 +27,7 @@ Matthew Hicks | Stefan Nagy
 Bert Huang | Chidubem Arachie
 Anuj Karpatne | Mohannad Elhamod
 Chang-Tien Lu | Fanglan Chen
+Kurt Luther | Vikram Mohanty
 Scott McCrickard | Derek Haqq
 Na Meng | Bowen She
 Tanushree Mitra | Shruti Phadke
@@ -40,4 +42,3 @@ Deborah Tatar | Aakash Gautam
 Eli Tilevich | Karn Techapalokul
 Layne Watson | Thomas Lux
 Danfeng (Daphne) Yao | Myles Frantz
-Liqing Zhang | Dhoha Abid
