@@ -5,7 +5,7 @@ permalink: /meetings/
 ---
 
 ## Regular meetings
-* *When*: Generally, alternating Mondays, 5:30pm-6:30pm. Use [this link](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWI2b2k0aHRidmtrNnI0bTlya2Y4aXBqNDNfMjAxOTA5MjNUMjEzMDAwWiBheWFhbkB2dC5lZHU&tmsrc=ayaan%40vt.edu&scp=ALL) to add the meetings to your calendar.
+* *When*: Generally, alternating Mondays, 5:30pm-6:30pm. Meetings for this semester are 9/9, 9/23, 10/7, 10/21, 11/4, 11/18, and 12/2
 * *Where*: Torgersen 3160A (If the door is locked, please knock and someone will let you in).
 
 See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) for the latest info.
