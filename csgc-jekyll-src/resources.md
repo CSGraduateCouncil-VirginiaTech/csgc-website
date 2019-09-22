@@ -14,6 +14,7 @@ permalink: /resources/
 * [Departmental Research Resources](https://cs.vt.edu/Research.html): The department maintains a list of research areas, labs, centers, and reading groups, along with points of contact for each.
 * [Survey for requesting travel funds](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link).
 * [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
+* [Computer Science Compact for the Advisor relationship](https://gpc.cs.vt.edu/shaffer/CSCompact.pdf): A guide to help describe an aspirational relationship between a student and their Advisor. 
 
 ## Academic Links
 * [The Graduate Computer Science Website](https://cs.vt.edu/Graduate): The Informational Website.
