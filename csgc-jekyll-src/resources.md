@@ -16,7 +16,7 @@ permalink: /resources/
 * [Center for Instructional Development and Educational Research](/cider/): These are some useful resources for students who expect to be teaching a class.
 * [Computer Science Compact for the Advisor relationship](https://gpc.cs.vt.edu/shaffer/CSCompact.pdf): A guide to help describe an aspirational relationship between a student and their Advisor.
 * [List of faculty seeking students](https://docs.google.com/spreadsheets/d/1BD1zxg6qMXW01GLofcS1ny034B7aQVT9zjuZF1CUgBQ): This spreadsheet contains the current status of faculty members in the department, showing whether or not they are currently open to advising more graduate stduents.
-* [CSRankings](http://csrankings.org): Popular research areas and some of their conferences.
+* [CSRankings](http://csrankings.org): Popular research areas and some of their top conferences.
 
 ## Academic Links
 * [The Graduate Computer Science Website](https://cs.vt.edu/Graduate): The Informational Website.
