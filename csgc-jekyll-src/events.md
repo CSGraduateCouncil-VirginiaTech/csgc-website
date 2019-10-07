@@ -10,6 +10,25 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 # Events
 
+## Fall 2019
+
+### Lightning Talks: Oct. 2, 2019
+
+Come hear a succession of 3-minute Lightning Talks on research and topics of interest from graduate students in the CS department.
+This will be a great opportunity to hear about different CS research happening at Virginia Tech, from the perspective of "the students who do the work".
+
+- *What*: Lightning Talks
+- *When*: Wednesday, Oct. 2, 6:30 - 8 PM
+- *Where*: GLC Room F
+- *Food*: Dinner will be provided.
+
+### Welcome-back barbecue: Aug. 29, 2019
+
+- *What*: Welcome-back barbecue
+- *When*: Thursday, Aug. 29, 5:30 - 8 PM
+- *Where*: Blacksburg Municipal Park
+- *Food*: Mains provided. Bring a side or dessert if you like
+
 ## Spring 2019
 
 ### Academic Jobs: Feb. 21, 2019
