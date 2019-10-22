@@ -12,6 +12,17 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 ## Fall 2019
 
+### Industy Job Panels: Oct. 17, 2019
+
+The CS Graduate Student Council has organized a Q&A panel for jobs outside of academia for CS Graduate Students.
+The panel is composed of a few Virgina Tech alumni who will share their experiences working in the industry
+
+- *What*: Industry Job Panel
+- *When*: Thursday, Oct. 17, 6:00 - 8 PM
+- *Where*: GLC Room F
+- *Food*: Dinner will be provided.
+
+
 ### Lightning Talks: Oct. 2, 2019
 
 Come hear a succession of 3-minute Lightning Talks on research and topics of interest from graduate students in the CS department.
