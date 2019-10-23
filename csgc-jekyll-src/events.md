@@ -21,6 +21,7 @@ The panel is composed of a few alumni from Virginia Tech and other universities 
 - *When*: Thursday, Oct. 17, 6:00 - 8 PM
 - *Where*: GLC Room F
 - *Food*: Dinner will be provided.
+- *Video*: Available [here](https://drive.google.com/file/d/1IheiTrzD_60WCUZsxLeZg0pWMs3tbRpi/view?usp=sharing)
 
 
 ### Lightning Talks: Oct. 2, 2019
