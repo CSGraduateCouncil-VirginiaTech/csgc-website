@@ -10,6 +10,10 @@ permalink: /meetings/
 
 See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) for the latest info (**please note this is an open list, and may include faculty**).
 
+## Contact
+* *csgc-g@vt.edu*: Concerns for the Graduate Student Council (**please note this is an open list-serve, and may include faculty**)
+* *gradcouncil@cs.vt.edu*: Concerns to be voiced **only** to the [Current Officers](/officers/)
+
 ## Minutes and Constitution
 If you're interested in what happens at Grad Council meetings, you've come to the right place.
 Meeting minutes live in this Google Drive [folder](https://drive.google.com/drive/folders/0B0b9Zb_kmZenbG1VTnhadTNHVDg?usp=sharing) and can be viewed by anyone with a VT email address.
