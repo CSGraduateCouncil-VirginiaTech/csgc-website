@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetings
+title: Contact and Meeting Info 
 permalink: /meetings/
 ---
 
@@ -8,11 +8,9 @@ permalink: /meetings/
 * *When*: Generally, alternating Mondays, 5:30pm-6:30pm. Meetings for this semester are 9/9, 9/23, 10/7, 10/21, 11/4, 11/18, and 12/2
 * *Where*: Torgersen 3160A (If the door is locked, please knock and someone will let you in).
 
-See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) for the latest info (**please note this is an open list, and may include faculty**).
-
 ## Contact
-* *csgc-g@vt.edu*: Concerns for the Graduate Student Council (**please note this is an open list-serve, and may include faculty**)
-* *gradcouncil@cs.vt.edu*: Concerns to be voiced **only** to the [Current Officers](/officers/)
+* See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch. Note that this mailing list is open to anyone with a vt.edu email address.
+* Please address sensitive questions or concerns to [gradcouncil@cs.vt.edu](mailto:gradcouncil@cs.vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
 
 ## Minutes and Constitution
 If you're interested in what happens at Grad Council meetings, you've come to the right place.

@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://csgrad.cs.vt.edu" # the base hostname & protocol for your site, e.g. http://example.com
 main_pages:
   - url: "/meetings/"
-    title: "Meetings"
+    title: "Contact and Meeting Info"
   - url: "/events/"
     title: "Events"
   - url: "/resources/"
