@@ -8,12 +8,12 @@ _This page serves as a rough guide for what you (a student) need to do in order 
 
 **Budget**
 
-Once you have decided to host an event, you need to obtain an estimate for how many people are going to attend.
-This helps with deciding a budget.
-An easy way to do this is to send out a Google Form a week or two in advance.
+Once you have decided to host an event that requires funding, you need to create a budget.
+Estimate how many people are going to attend (with some type of survey).
+Then estimate the cost of supplies that you will need based on the survey.
 
-Once you have an estimated number of attendees, come up with a reasonable budget and contact [Libby Bradford](mailto:bradfolg@vt.edu).
-She will confirm the budget, among other things.
+Once you have an idea of how many people will attend, create a list of supplies and their costs (a budget).
+Send the budget and a request to host the event to [Robert Marcum](mailto:marcumr@cs.vt.edu) *at least a week* before the date of the event.
 
 **Venue**
 
