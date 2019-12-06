@@ -12,6 +12,17 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 ## Fall 2019
 
+### Qualifier Q&A: Dec. 4, 2019
+
+The event will consist of a panel of graduate students who have completed the Qualifying process.
+They will talk about their experiences with the exam and/or passing based on research points.
+
+- *What*: Qualifier Q&A
+- *When*: Wednesday, Dec. 4, 6:30 - 8:30 PM
+- *Where*: GLC Room F
+- *Food*: Dinner will be provided.
+- *Video*: Available [here](https://drive.google.com/file/d/1Ak-BGHjSiHT8IS5q84GfhVdyKlPQu4TD/view?usp=sharing)
+
 ### Industry Job Panels: Oct. 17, 2019
 
 The CS Graduate Student Council has organized a Q&A panel for jobs outside of academia for CS Graduate Students.
