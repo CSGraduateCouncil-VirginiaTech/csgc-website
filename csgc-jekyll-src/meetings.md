@@ -5,7 +5,7 @@ permalink: /meetings/
 ---
 
 ## Regular meetings
-* *When*: Generally, alternating Mondays, 5:30pm-6:30pm. Meetings for this semester are 9/9, 9/23, 10/7, 10/21, 11/4, 11/18, and 12/2
+* *When*: Generally alternating Fridays, 10:00am-11:00am. Meetings for this semester are 2/21, 3/6, 3/20, 4/3, and 4/17
 * *Where*: Torgersen 3160A (If the door is locked, please knock and someone will let you in).
 
 ## Contact
