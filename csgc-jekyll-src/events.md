@@ -4,11 +4,52 @@ title: Events
 permalink: /events/
 ---
 
-We are still working the CS department to organize some social events this semester. Please check back later to see if we have updated this page.
-
 For some pointers on organizing an event on behalf of the Grad Council, see [the guide](/events/organizing-an-event).
 
+# Calendar
+
+You may see the CS Grad Council Google Calender [here](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
 # Events
+
+## Spring 2020
+
+### Virtual Coffee Break: April 16th and on, 2020
+
+The CS Grad Council would like to invite you to a biweekly virtual coffee break.
+
+- *What*: Coffee Break
+- *When*: Tuesdays and Thursdays, April 16th and on, 1:00-2:00pm
+- *Where*: [Zoom](https://virginiatech.zoom.us/j/97997872889?pwd=RmtqOEQ0bWJsTjU1TUNXSTZhNjJYZz09)
+
+### Department Town Hall: April 8th, 2020
+
+The CS Grad Council is pleased to invite you to the *2nd Annual Computer Science Graduate Town Hall*.
+
+- *What*: Town Hall
+- *When*: Wednesday, April 8th, 6:00-8:00PM
+- *Where*: Zoom
+- *Notes*: [Doc](https://docs.google.com/document/d/1cSUEJcF5qoD8xHylrCqyNZUNeUy1jbDfK6IDfl5RAqQ/edit?usp=sharing)
+
+Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, openly answering questions related to the Coronavirus and it's impacts.
+
+### Academic Jobs: April 14th, 2020
+
+Grad Council is hosting a Q&A Panel about obtaining, preparing for, and excelling at academic jobs.
+
+- *What*: Academic Jobs
+- *When*: Thursday, April 14th, 6 - 8 PM
+- *Where*: Zoom
+
+If you might want to be a faculty member someday, this is a great event to attend!
+
+### Recruitment Weekend: Feb. 27-29, 2020
+
+The CS Graduate Student Council hasis please to announce the recuitment weekend for potential Computer Science Graduate Students.
+
+- *What*: Recruitment Weekend
+- *When*: Thursday-Saturday, Feb. 27-29
+- *Where*: Blacksburg
 
 ## Fall 2019
 
@@ -116,8 +157,6 @@ The CS Grad Council is pleased to invite you to the *1st Annual(?) Computer Scie
 Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, along with some recent history and future aspirations.
 
 Ask questions, and propose changes to the department. Eat pizza.
-
-If you are coming: Please fill out [this form](https://goo.gl/forms/sbdfzk5aRyidxOdg1) so we can estimate food and seating.
 
 For our friends in Northern Virginia, we'll arrange remote access to the event. As always, no remote access to our pizza will be provided.
 
