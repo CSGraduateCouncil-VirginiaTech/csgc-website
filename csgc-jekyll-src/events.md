@@ -31,7 +31,7 @@ The CS Grad Council is pleased to invite you to the *2nd Annual Computer Science
 - *Where*: Zoom
 - *Notes*: [Doc](https://docs.google.com/document/d/1cSUEJcF5qoD8xHylrCqyNZUNeUy1jbDfK6IDfl5RAqQ/edit?usp=sharing)
 
-Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, openly answering questions related to the Coronavirus and it's impacts.
+Hear from Dr. Ribbens and Dr. Shaffer about current challenges and opportunities facing the department, openly answering questions related to the Coronavirus and its impacts.
 
 ### Academic Jobs: April 14th, 2020
 
