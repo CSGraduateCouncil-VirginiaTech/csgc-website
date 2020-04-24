@@ -40,6 +40,7 @@ Grad Council is hosting a Q&A Panel about obtaining, preparing for, and excellin
 - *What*: Academic Jobs
 - *When*: Thursday, April 14th, 6 - 8 PM
 - *Where*: Zoom
+- *Notes*: [Doc](https://drive.google.com/open?id=1xH1XBAkEfTZA8MXvu94PtfaKTZzg_rRp)
 
 If you might want to be a faculty member someday, this is a great event to attend!
 
