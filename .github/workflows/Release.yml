@@ -17,7 +17,7 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && cd csgc-jekyll-src/ && gem install && jekyll build -d ../_site --future"
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && cd csgc-jekyll-src/ && bundle install && jekyll build -d ../_site --future"
   
     - name: Create Release
       id: create_release
