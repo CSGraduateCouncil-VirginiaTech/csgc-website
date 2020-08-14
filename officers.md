@@ -4,29 +4,29 @@ title: Officers
 permalink: /Officers/
 ---
 
-# 2019-2020
+# 2020-2021
 
 ## Officers
 
-### [Ayaan Kazerouni](https://people.cs.vt.edu/ayaan/), President
+### [Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), President
 
-Ayaan has taken control from Jamie.
+Shakiba has taken control from Ayaan.
 
-### [Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Vice President
+### [Myles Frantz](https://franceme.github.io/), Vice President
 
-Makes sure Ayaan is on time.
+Myles makes sure Shakiba is on time, and makes life easier for her.
 
 ### [Frank Wanye](https://ffrankies.github.io/), Secretary
 
-Watches the watchers.
+who watches the watchers.
 
-### [Thomas Lux](https://people.cs.vt.edu/tchlux/), Treasurer
+### [Mohannad Elhamod](linkedin.com/in/mohannad-elhamod-088b6118/), Treasurer
 
-The money man.
+Keep on his good side, for he is the money man.
 
-### [Jamie Davis](https://people.cs.vt.edu/~davisjam/), Past President
+### [Ayaan Kazerouni](https://people.cs.vt.edu/ayaan/), Past President
 
-Jamie is wise.
+Ayaan has all the wisdom.
 
 ## GSA Representatives
 
