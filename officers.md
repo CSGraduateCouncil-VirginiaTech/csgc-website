@@ -20,11 +20,11 @@ Myles makes sure Shakiba is on time, and makes life easier for her.
 
 who watches the watchers.
 
-### [Mohannad Elhamod](linkedin.com/in/mohannad-elhamod-088b6118/), Treasurer
+### [Mohannad Elhamod](https://linkedin.com/in/mohannad-elhamod-088b6118/), Treasurer
 
 Keep on his good side, for he is the money man.
 
-### [Ayaan Kazerouni](https://people.cs.vt.edu/ayaan/), Past President
+### [Ayaan Kazerouni](https://ayaankazerouni.github.io/), Past President
 
 Ayaan has all the wisdom.
 
