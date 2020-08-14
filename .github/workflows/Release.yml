@@ -1,9 +1,8 @@
 name: Jekyll site CI
 
 on:
-  pull_request:
+  push:
     branches: [ master ]
-    types: [ closed ]
 
 jobs:
   build:
