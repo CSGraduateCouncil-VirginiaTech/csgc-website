@@ -18,7 +18,7 @@ Myles makes sure Shakiba is on time, and makes life easier for her.
 
 ### [Frank Wanye](https://ffrankies.github.io/), Secretary
 
-who watches the watchers.
+Who watches the watchers.
 
 ### [Mohannad Elhamod](https://linkedin.com/in/mohannad-elhamod-088b6118/), Treasurer
 
