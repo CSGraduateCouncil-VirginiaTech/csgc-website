@@ -5,10 +5,11 @@
 layout: page
 title: About CS Grad Council
 ---
-The Graduate Council (GC) represents the interests of the CS graduate student body at VT both within the department and outside. 
-We provide an interface between the student body and the faculty members, help organize social events among graduate students, and help incoming students become familiar with departmental procedures and activities. 
-Outside the department, we voice student opinions in various graduate school forums and promote social engagements with the wider graduate student community.
+The Graduate Council (GC) provides an interface between the CS graduate student body at VT and the faculty members.
 
+We represent the interests of the CS graduate student body both within the department and outside, help organize social events among graduate students, and help incoming students become familiar with departmental procedures and activities. 
+
+Outside the department, we voice student opinions in various graduate school forums and promote social engagements with the wider graduate student community.
 
 Here are some of our activities:
 - We organize [events](/events/).
