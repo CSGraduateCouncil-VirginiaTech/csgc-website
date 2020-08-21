@@ -4,11 +4,11 @@
 
 ## What is this group about?
 
-The Graduate Council (GC) represents the interests of the CS graduate student body at VT both within the department and outside. We provide an interface between the student body and the faculty memebers, help organize social events among graduate students, and help incoming students become familiar with departmental procedures and activities. Outside the department, we voice student opinions in various graduate school forums and promote social engagements with the wider graduate student community.
+The Graduate Council (GC) represents the interests of the CS graduate student body at VT both within the department and outside. We provide an interface between the student body and the faculty members, help organize social events among graduate students, and help incoming students become familiar with departmental procedures and activities. Outside the department, we voice student opinions in various graduate school forums and promote social engagements with the wider graduate student community.
 
 ## Who this pertains to
 
-To any Graduate students at Virginia Tech interested in joining or aiding the Graduate Council website.
+To any Graduate students at Virginia Tech interested in aiding the Graduate Council website.
 
 ## Can I contact you? - Yes (_if you have a VT email address_)
 
