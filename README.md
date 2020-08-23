@@ -32,7 +32,7 @@ That being said, each markdown is generated "in-place" to it's html result and u
 
 Assumming you know markdown, you have to do the following to add a new markdown page.
 
-#1. In the [_config.yml](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/_config.yml) file, locate the main_pages: section.
+1. In the [_config.yml](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/_config.yml) file, locate the main_pages: section.
 
 It should look something like [this](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/_config.yml#L22):
 ```yaml
@@ -54,7 +54,7 @@ main_pages:
     title: "Hello world"
 ```
 
-#2. Making the file
+2. Making the file
 
 Create the file using an appropriate name.
 It has to be a markdown file.
@@ -76,7 +76,7 @@ The title is the top of the page once the webpage is opened.
 Finally, the permalink is the relative hyperlink alongside the website.
 NOTE: the permalink here HAS to match the url in the _config.yml file, otherwise the page won't be reachable.
 
-#3. Test your website
+3. Test your website
 
 Make sure you test your website in your own branch before making a pull request.
 I simplified this by creating the [Makefile](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/Makefile) and all you have to do is run the cmd `make` to attempt to generate the website locally.
