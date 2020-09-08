@@ -17,28 +17,25 @@ Faculty Name | Representative Name
 :---: | :---:
 Students with no advisor | Arjun Choudhry, Becca Dworak, <br> Jesse Harden, Meena Lohani
 Doug Bowman | Shakiba Davari
-Ali Butt | Subil Abraham
+Ali Butt | 
 Kirk Cameron | Jon Bernard
-Yang Cao | Mansooreh Ahmadian
+Yang Cao | 
 Wu Feng | Frank Wanye
-Edward Fox | Amirsina Torfi
+Edward Fox | 
 Lenwood Heath | Ramya Nandigam
 Matthew Hicks | Stefan Nagy
-Bert Huang | Chidubem Arachie
 Anuj Karpatne | Mohannad Elhamod
 Chang-Tien Lu | Fanglan Chen
 Kurt Luther | Vikram Mohanty
 Scott McCrickard | Derek Haqq
 Na Meng | Bowen She
-Tanushree Mitra | Shruti Phadke
-Chris North | Michelle Dowling
-Alexey Onufriev | Negin Forouzesh
-Aditya Prakash | Anika Tabassum
+Chris North | 
+Alexey Onufriev | 
 Naren Ramakrishnan | Nikhil Muralidhar
 Adrian Sandu | Andrey Popov
 Francisco Servant | Khadijah Alsafwan
-Cliff Shaffer | Ayaan Kazerouni
+Cliff Shaffer | 
 Deborah Tatar | Aakash Gautam
 Eli Tilevich | Karn Techapalokul
-Layne Watson | Thomas Lux
+Layne Watson | 
 Danfeng (Daphne) Yao | Myles Frantz
