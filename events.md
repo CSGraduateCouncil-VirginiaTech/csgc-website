@@ -16,13 +16,13 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Spring 2020
 
-### Virtual Coffee Break: April 16th and on, 2020
+### Virtual Coffee Break: April 16th to August 18th, 2020
 
 The CS Grad Council would like to invite you to a biweekly virtual coffee break.
 
 - *What*: Coffee Break
 - *When*: Tuesdays and Thursdays, April 16th and on, 1:00-2:00pm
-- *Where*: [Zoom](https://virginiatech.zoom.us/j/97997872889?pwd=RmtqOEQ0bWJsTjU1TUNXSTZhNjJYZz09)
+- *Where*: Zoom
 
 ### Department Town Hall: April 8th, 2020
 
