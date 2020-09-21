@@ -22,7 +22,7 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 - *When*: Friday, Sept. 25, 6:00-8:00PM
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-### CSGC lofi coffee hour: September 24th and on
+### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
 - *What*: CSGC lofi coffee hour
 - *When*: Thursdays, 10:00-11:00AM, Starting from Sept. 24
