@@ -14,6 +14,14 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 # Events
 
+## Fall 2020
+
+### Welcome Event: September 25th, 2020
+
+- *What*: Welcome Event
+- *When*: Friday, Sept. 25, 6:00-8:00PM
+- *Where*: Zoom
+
 ## Spring 2020
 
 ### Virtual Coffee Break: April 16th to August 18th, 2020
