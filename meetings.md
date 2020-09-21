@@ -9,8 +9,6 @@ Time: Every other Monday, 1:00 PM to 2:00 PM
 
 Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-Next Meeting: Mon Sept. 14
-
 ## Contact
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch. 
 
