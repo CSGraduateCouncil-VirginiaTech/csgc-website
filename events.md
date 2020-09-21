@@ -30,7 +30,8 @@ The CS Grad Council would like to invite you to a biweekly virtual coffee break.
 
 - *What*: Coffee Break
 - *When*: Tuesdays and Thursdays, April 16th and on, 1:00-2:00pm
-- *Where*: Zoom
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
 
 ### Department Town Hall: April 8th, 2020
 
