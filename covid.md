@@ -13,4 +13,4 @@ permalink: /covid/
 * [Virginia Tech COVID-19 Dashboard](https://ready.vt.edu/dashboard.html)
 * [Virgina Tech CS Department COVID-19 FAQ](https://cs.vt.edu/Graduate/COVID19.html)
 * [CDC COVID-19 Guidelines](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-* If you have additional links that you believe should be added to this list, please contact CS Grad Council TODO: How should they do that?
+* If you have additional links that you believe should be added to this list, please contact CS Grad Council
