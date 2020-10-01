@@ -26,6 +26,8 @@ main_pages:
     title: "Events"
   - url: "/resources/"
     title: "Resources"
+  - url: "/covid/"
+    title: "COVID-19 Information"
   - url: "/travel_funding/"
     title: "Travel Funding"
   - url: "/Officers/"
