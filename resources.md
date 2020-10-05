@@ -27,6 +27,15 @@ permalink: /resources/
 * [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses): The website containing information about future Advanced Courses.
 * [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest): An open website to search for classes.
 
+## Conference Presentation Templates
+
+Here are the slides for talks made by various graduate students from our department.
+Feel free to use one of them as a template for your next talk.
+
+1. Jamie Davis's "Event Handler Poisoning" slides: [Powerpoint](/assets/presentation-templates/DavisWilliamsonLee-USENIXSecurity-SenseOfTime-NodeCure-v4.1.pptx)
+2. Tyler Chang's "Poly-Time Multivariate Interpolation via the DLT" slides: [PDF](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.pdf), [Beamer source](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.tgz)
+3. Thomas Lux's "Novel Meshes for Multivariate Interpolation and Approximation" slides: [PDF](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.pdf), [Keynote](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.key)
+
 ## Department Logo
 
 * [Logo Guidelines](https://vt.edu/brand/resources/logo-guidelines.html)
@@ -37,12 +46,3 @@ permalink: /resources/
 | <img src='/assets/logos/vt_inline_computer_science.png' width='400'/> | [PDF](/assets/logos/vt_inline_computer_science.pdf) | [EPS](/assets/logos/vt_inline_computer_science.eps) |
 | <img src='/assets/logos/vt_logo_inline.png' width='400'/> | [PDF](/assets/logos/vt_logo_inline.pdf) | [EPS](/assets/logos/vt_logo_inline.eps) |
 | <img src='/assets/logos/vt_logo.png' width='400'/> | [PDF](/assets/logos/vt_logo.pdf) | [EPS](/assets/logos/vt_logo.eps) |
-
-## Conference Presentation Templates
-
-Here are the slides for talks made by various graduate students from our department.
-Feel free to use one of them as a template for your next talk.
-
-1. Jamie Davis's "Event Handler Poisoning" slides: [Powerpoint](/assets/presentation-templates/DavisWilliamsonLee-USENIXSecurity-SenseOfTime-NodeCure-v4.1.pptx)
-2. Tyler Chang's "Poly-Time Multivariate Interpolation via the DLT" slides: [PDF](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.pdf), [Beamer source](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.tgz)
-3. Thomas Lux's "Novel Meshes for Multivariate Interpolation and Approximation" slides: [PDF](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.pdf), [Keynote](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.key)
