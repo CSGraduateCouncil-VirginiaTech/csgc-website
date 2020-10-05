@@ -14,4 +14,4 @@ permalink: /covid/
 * [Virgina Tech CS Department COVID-19 FAQ](https://cs.vt.edu/Graduate/COVID19.html)
 * [CDC COVID-19 Guidelines](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-*If there are any additional links that you believe should be added to this list, or if there are any questions or concerns, please share them with the [CS Grad Council](http://csgrad.cs.vt.edu/meetings).* 
+*If there are any additional links that you believe should be added to this list, or if there are any questions or concerns, please share them with the [CS Grad Council](https://csgrad.cs.vt.edu/meetings).* 
