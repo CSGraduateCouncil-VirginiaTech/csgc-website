@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Housing Info
-permalink: /Housing/
+permalink: /housing/
 ---
 
 ### Starting Out Links
