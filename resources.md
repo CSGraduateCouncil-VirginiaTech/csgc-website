@@ -11,7 +11,7 @@ permalink: /resources/
 
 ## Internally Hosted Links
 
-* [New Student Guide](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/view?usp=sharing): This google doc contains too many links to be placed here. It covers Acedemic links, Department links, Calendar links, and even printing links. 
+* [New Student Guide](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/preview): This google doc contains too many links to be placed here. It covers Acedemic links, Department links, Calendar links, and even printing links. 
 
 ## Conference Presentation Templates
 
