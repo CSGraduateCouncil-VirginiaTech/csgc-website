@@ -16,6 +16,16 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Fall 2020
 
+### Industry Job Panels: Oct. 29, 2020
+
+The CS Graduate Student Council has organized a Q&A panel for jobs outside of academia for CS Graduate Students.
+
+- *What*: Industry Job Panel
+- *When*: Thursday, Oct. 29, 4:30 - 6 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *Video*: Available [here](https://drive.google.com/file/d/1uekYlBydBEAHlT6GRtkt0QcoUJyJe29Y/view)
+- *Follow-up*: Please find panelists contact information [here](https://docs.google.com/document/d/1WOs48uIgDIBurvpUr8zQJwNO6IljDrHQiJqBknpQaU8/preview). 
+
 ### Welcome Event: September 25th, 2020
 
 - *What*: Welcome Event
