@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Officers
-permalink: /Officers/
+permalink: /officers/
 ---
 
 # 2020-2021
