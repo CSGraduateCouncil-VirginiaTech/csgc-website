@@ -12,9 +12,19 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 You may also see the Computer Science Defenses (Masters or PhD) Calender [here](https://calendar.google.com/calendar?cid=Y184b2dhNHRtdXNzbjcydXRnM3ViYzRmcXZ2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
-# Events
+## Upcoming Events
 
-## Fall 2020
+### CSGC ***weekly*** lofi coffee hour: September 24th and on
+
+- *What*: CSGC lofi coffee hour
+- *When*: Thursdays, 10:00-11:00AM, Starting from Sept. 24
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
+<br/><br/>
+
+## Past Events
+
+> Fall 2020
 
 ### Industry Job Panels: Oct. 29, 2020
 
@@ -32,13 +42,7 @@ The CS Graduate Student Council has organized a Q&A panel for jobs outside of ac
 - *When*: Friday, Sept. 25, 6:00-8:00PM
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-### CSGC ***weekly*** lofi coffee hour: September 24th and on
-
-- *What*: CSGC lofi coffee hour
-- *When*: Thursdays, 10:00-11:00AM, Starting from Sept. 24
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
-
-## Spring 2020
+> Spring 2020
 
 ### Virtual Coffee Break: April 16th to August 18th, 2020
 
@@ -78,7 +82,7 @@ The CS Graduate Student Council hasis please to announce the recuitment weekend 
 - *When*: Thursday-Saturday, Feb. 27-29
 - *Where*: Blacksburg
 
-## Fall 2019
+> Fall 2019
 
 ### Qualifier Q&A: Dec. 4, 2019
 
@@ -120,7 +124,7 @@ This will be a great opportunity to hear about different CS research happening a
 - *Where*: Blacksburg Municipal Park
 - *Food*: Mains provided. Bring a side or dessert if you like
 
-## Spring 2019
+> Spring 2019
 
 ### Academic Jobs: Feb. 21, 2019
 
@@ -134,7 +138,7 @@ The panelists are six faculty members with a range of experience: assistant prof
 
 If you might want to be a faculty member someday, this is a great event to attend!
 
-## Fall 2018
+> Fall 2018
 
 ### Qualifier Q&A and Pizza: Nov. 15, 2018
 
@@ -170,7 +174,7 @@ The CS Grad Council is pleased to invite you to the Fall edition of our Lightnin
 
 Slides from the presenters are available [here](https://drive.google.com/open?id=13XGLKy5GpNI1gPxPwn8DkEiBMGU4EniX) if you are signed into a vt.edu email account.
 
-## Spring 2018
+> Spring 2018
 
 ### Computer Science Graduate Town Hall: Apr. 19, 2018
 
@@ -187,7 +191,7 @@ Ask questions, and propose changes to the department. Eat pizza.
 
 For our friends in Northern Virginia, we'll arrange remote access to the event. As always, no remote access to our pizza will be provided.
 
-## Fall 2017
+> Fall 2017
 
 ### Qualifier Q&A and Pizza: Dec. 7, 2017
 
