@@ -19,6 +19,12 @@ jobs:
     # Runs a single command using the runners shell
     - name: Zip the Website
       run: zip -r ${{ github.workspace }}/Website.zip _site 
+
+    - name: Get Time
+      id: time
+      uses: nanzm/get-time-action@v1.0
+      with:
+        format: 'YYYY-MM-DD-HH-mm'
   
     - name: Create Release
       id: create_release
@@ -26,9 +32,9 @@ jobs:
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: Update_${{ github.sha }}
-        release_name: Update_${{ github.sha }}
-        body: Release_${{ github.sha }}
+        tag_name: Update_${{ steps.time.outputs.time }}
+        release_name: Update_${{ steps.time.outputs.time }}
+        body: Update_${{ steps.time.outputs.time }}
 
     - name: Upload Release Asset
       id: upload-release-asset 
