@@ -14,6 +14,15 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Upcoming Events
 
+#### Qualifier Q/A: Dec. 3, 2020
+
+The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
+
+- *What*: Qualifier Q&A
+- *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
+- *Where*: Zoom.  Please access the link from the [Calendar Event]()
+- *Video*: Available [here](https://drive.google.com/file/d/1IfbxUI5-S7p9XPeHOpddCMPEK1gaMcjz/view)
+
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
 - *What*: CSGC lofi coffee hour
