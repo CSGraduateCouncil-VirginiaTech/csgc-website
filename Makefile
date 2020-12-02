@@ -8,5 +8,5 @@ install:
 	@bundle install
 
 build:
-	@echo Building the wbesite locally
+	@echo Building the website locally
 	@bundle exec jekyll serve
