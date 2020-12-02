@@ -20,8 +20,8 @@ The event will consist of a panel of graduate students who have completed the Qu
 
 - *What*: Qualifier Q&A
 - *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
-- *Where*: Zoom.  Please access the link from the [Calendar Event]()
-- *Video*: Available [here](https://drive.google.com/file/d/1IfbxUI5-S7p9XPeHOpddCMPEK1gaMcjz/view)
+- *Where*: Zoom.  Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Video*: *TBD*
 
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
