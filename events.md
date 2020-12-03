@@ -102,7 +102,7 @@ They will talk about their experiences with the exam and/or passing based on res
 - *When*: Wednesday, Dec. 4, 6:30 - 8:30 PM
 - *Where*: GLC Room F
 - *Food*: Dinner will be provided.
-- *Video*: Available [here](https://drive.google.com/file/d/1Ak-BGHjSiHT8IS5q84GfhVdyKlPQu4TD/view?usp=sharing)
+- *Video*: Available [here](https://drive.google.com/file/d/1IfbxUI5-S7p9XPeHOpddCMPEK1gaMcjz/view?usp=sharing)
 
 #### Industry Job Panels: Oct. 17, 2019
 
