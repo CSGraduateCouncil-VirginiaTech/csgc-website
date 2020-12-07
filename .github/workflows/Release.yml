@@ -12,10 +12,8 @@ jobs:
     - uses: actions/checkout@v2
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.5.1
+        ruby-version: 2.6.3
 
-    #Fixing the bundle issue noted here: https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html
-    - run: gem install bundler -v 2.1.4
     - run: bundle install
     - run: bundle exec jekyll build -d _site/
     
