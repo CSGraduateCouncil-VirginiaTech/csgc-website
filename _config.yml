@@ -36,6 +36,8 @@ main_pages:
     title: "Housing"
   - url: "/lab_representatives/"
     title: "Lab Representatives"
+  - url: "/checklist/"
+    title: "Graduate Student Checklist"
 twitter_username:
 github_username:
 
