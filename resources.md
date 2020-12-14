@@ -78,8 +78,12 @@ Feel free to use one of them as a template for your next talk.
 2. Tyler Chang's "Poly-Time Multivariate Interpolation via the DLT" slides: [PDF](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.pdf), [Beamer source](/assets/presentation-templates/ChangWatsonLuxLiXuButtCameronHong-PolyTimeInterpolation-ACMRegional.tgz)
 3. Thomas Lux's "Novel Meshes for Multivariate Interpolation and Approximation" slides: [PDF](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.pdf), [Keynote](/assets/presentation-templates/LuxWatsonChangBernardLiYuXuBackButtCameronHongYao-NovelMeshesForMultivariateInterpolationAndApproximation.key)
 
+## <a name="Jobs"></a>Faculty Jobs<a href="#Jobs"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+Here is the information that Grad Council has collected on the academic job search from previous students:
 
+* [Academic Job Search FAQ](https://docs.google.com/document/d/1qDcjz60kDdmzx1aftlpWvhY02oP7hOyVWRtxuvZou50/edit?usp=sharing)
+* [Interviewing FAQ](https://docs.google.com/document/d/154-0sCUOPoKHCKGLu2T6ZAe-fTn8ZXEOYUQYdO6F6A8/edit?usp=sharing)
 
 ## <a name="General"></a>General<a href="#General"><i class="fa fa-link" aria-hidden="true"></i></a>
 
