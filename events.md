@@ -13,30 +13,32 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 You may also see the Computer Science Defenses (Masters or PhD) Calender [here](https://calendar.google.com/calendar?cid=Y184b2dhNHRtdXNzbjcydXRnM3ViYzRmcXZ2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ## Upcoming Events
-
-#### Student-Advisor Workshop: Jan. 25, 2021
-
-This workshop will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by the graduate ombudsperson and a panel of professors whom are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students who are happy in their labs and have a healthy relationship with their advisors.
-
-
-- *What*: Student-Advisor Workshop
-- *When*: Monday, Jan. 25, 5:00 - 6:30 PM
-- *Where*: Zoom.  Please access the link from the [Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWZkZnUyMDNtNjRtcGNibTFiN2U1OGxmMW8gdnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGc&tmsrc=vt.edu_n4nt4hge50kv7jj1cd3u79eimk%40group.calendar.google.com)
+#### Mentorship Event: Jan. 21st, 2021
+**Part 1: Mentor Training**  
+The event will provide an overview of the Mentorship Program and give the mentors an opportunity to get to know each other.
+- *What*: Mentor Training [For Mentors Only]
+- *When*: Thursday, Jan. 21th, 6:00 - 6:20 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - *Video*: *TBD*
 
-#### Qualifier Q/A: Dec. 3, 2020
+**Part 2: Mentor/Mentee Meetup**  
+The event will provide mentors and mentees in the Mentorship Program an opportunity to get to know each other.
+- *What*: Mentorship Event [For Mentors and Mentees Only]
+- *When*: Thursday, Jan. 21th, 6:20 - 7:00 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
-
-- *What*: Qualifier Q&A
-- *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
-- *Where*: Zoom.  Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+#### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
+CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by the graduate ombudsperson and a panel of professors whom are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students who are happy in their labs and have a healthy relationship with their advisors.  
+- *What*: Student-Advisor Relationship Workshop
+- *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Registeration*: https://virginiatech.zoom.us/meeting/register/tZIvf-2sqzMrGdyhTN1SqKCZ4YfZ0KipLKrk 
 - *Video*: *TBD*
 
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
 - *What*: CSGC lofi coffee hour
-- *When*: Thursdays, 10:00-11:00AM, Starting from Sept. 24
+- *When*: TBD
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 <br/><br/>
@@ -45,13 +47,22 @@ The event will consist of a panel of graduate students who have completed the Qu
 
 ### Fall 2020
 
+#### Qualifier Q/A: Dec. 3, 2020
+
+The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
+
+- *What*: Qualifier Q&A
+- *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
+- *Where*: Zoom.
+- *Video*: *TBD*
+
 #### Industry Job Panels: Oct. 29, 2020
 
 The CS Graduate Student Council has organized a Q&A panel for jobs outside of academia for CS Graduate Students.
 
 - *What*: Industry Job Panel
 - *When*: Thursday, Oct. 29, 4:30 - 6 PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *Where*: Zoom.
 - *Video*: Available [here](https://drive.google.com/file/d/1uekYlBydBEAHlT6GRtkt0QcoUJyJe29Y/view)
 - *Follow-up*: Please find panelists contact information [here](https://docs.google.com/document/d/1WOs48uIgDIBurvpUr8zQJwNO6IljDrHQiJqBknpQaU8/preview). 
 
@@ -59,7 +70,7 @@ The CS Graduate Student Council has organized a Q&A panel for jobs outside of ac
 
 - *What*: Welcome Event
 - *When*: Friday, Sept. 25, 6:00-8:00PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *Where*: Zoom.
 
 ### Spring 2020
 
