@@ -13,20 +13,24 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 You may also see the Computer Science Defenses (Masters or PhD) Calender [here](https://calendar.google.com/calendar?cid=Y184b2dhNHRtdXNzbjcydXRnM3ViYzRmcXZ2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ## Upcoming Events
+#### Mentorship Event: Jan. 21st, 2021
 
-#### Qualifier Q/A: Dec. 3, 2020
+- *What*: Mentorship Event
+- *When*: Thursday, Jan. 21th, 6:00 - 7:00 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Video*: *TBD*
 
-The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
+#### Student-Advisor Relationship Workshop: Jan. 25th, 2021
 
-- *What*: Qualifier Q&A
-- *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
-- *Where*: Zoom.  Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *What*: Student-Advisor Relationship Workshop
+- *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - *Video*: *TBD*
 
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
 - *What*: CSGC lofi coffee hour
-- *When*: Thursdays, 10:00-11:00AM, Starting from Sept. 24
+- *When*: TBD
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 <br/><br/>
@@ -35,13 +39,22 @@ The event will consist of a panel of graduate students who have completed the Qu
 
 ### Fall 2020
 
+#### Qualifier Q/A: Dec. 3, 2020
+
+The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
+
+- *What*: Qualifier Q&A
+- *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
+- *Where*: Zoom.
+- *Video*: *TBD*
+
 #### Industry Job Panels: Oct. 29, 2020
 
 The CS Graduate Student Council has organized a Q&A panel for jobs outside of academia for CS Graduate Students.
 
 - *What*: Industry Job Panel
 - *When*: Thursday, Oct. 29, 4:30 - 6 PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *Where*: Zoom.
 - *Video*: Available [here](https://drive.google.com/file/d/1uekYlBydBEAHlT6GRtkt0QcoUJyJe29Y/view)
 - *Follow-up*: Please find panelists contact information [here](https://docs.google.com/document/d/1WOs48uIgDIBurvpUr8zQJwNO6IljDrHQiJqBknpQaU8/preview). 
 
@@ -49,7 +62,7 @@ The CS Graduate Student Council has organized a Q&A panel for jobs outside of ac
 
 - *What*: Welcome Event
 - *When*: Friday, Sept. 25, 6:00-8:00PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *Where*: Zoom.
 
 ### Spring 2020
 
