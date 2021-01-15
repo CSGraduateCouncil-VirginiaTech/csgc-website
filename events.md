@@ -14,6 +14,16 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Upcoming Events
 
+#### Student-Advisor Workshop: Jan. 25, 2021
+
+This workshop will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by the graduate ombudsperson and a panel of professors whom are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students who are happy in their labs and have a healthy relationship with their advisors.
+
+
+- *What*: Student-Advisor Workshop
+- *When*: Monday, Jan. 25, 5:00 - 6:30 PM
+- *Where*: Zoom.  Please access the link from the [Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWZkZnUyMDNtNjRtcGNibTFiN2U1OGxmMW8gdnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGc&tmsrc=vt.edu_n4nt4hge50kv7jj1cd3u79eimk%40group.calendar.google.com)
+- *Video*: *TBD*
+
 #### Qualifier Q/A: Dec. 3, 2020
 
 The event will consist of a panel of graduate students who have completed the Qualifying process. They will talk about their experiences with the exam and/or passing based on research points.
