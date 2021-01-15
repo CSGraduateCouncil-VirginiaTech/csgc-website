@@ -14,17 +14,25 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Upcoming Events
 #### Mentorship Event: Jan. 21st, 2021
-
-- *What*: Mentorship Event [For Mentors and Mentees Only]
-- *When*: Thursday, Jan. 21th, 6:00 - 7:00 PM
+**Part 1: Mentor Training**  
+The event will provide an overview of the Mentorship Program and give the mentors an opportunity to get to know each other.
+- *What*: Mentor Training [For Mentors Only]
+- *When*: Thursday, Jan. 21th, 6:00 - 6:20 PM
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - *Video*: *TBD*
 
-#### Student-Advisor Relationship Workshop: Jan. 25th, 2021
+**Part 2: Mentor/Mentee Meetup**  
+The event will provide mentors and mentees in the Mentorship Program an opportunity to get to know each other.
+- *What*: Mentorship Event [For Mentors and Mentees Only]
+- *When*: Thursday, Jan. 21th, 6:20 - 7:00 PM
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+#### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
+CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by the graduate ombudsperson and a panel of professors whom are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students who are happy in their labs and have a healthy relationship with their advisors.  
 - *What*: Student-Advisor Relationship Workshop
 - *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Registeration*: https://virginiatech.zoom.us/meeting/register/tZIvf-2sqzMrGdyhTN1SqKCZ4YfZ0KipLKrk 
 - *Video*: *TBD*
 
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
