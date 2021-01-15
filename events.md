@@ -15,7 +15,7 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 ## Upcoming Events
 #### Mentorship Event: Jan. 21st, 2021
 
-- *What*: Mentorship Event
+- *What*: Mentorship Event [For Mentors and Mentees Only]
 - *When*: Thursday, Jan. 21th, 6:00 - 7:00 PM
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - *Video*: *TBD*
