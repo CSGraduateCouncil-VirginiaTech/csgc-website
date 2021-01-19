@@ -54,7 +54,7 @@ The event will consist of a panel of graduate students who have completed the Qu
 - *What*: Qualifier Q&A
 - *When*: Thursday, Dec. 3, 7:00 - 8:30 PM
 - *Where*: Zoom.
-- *Video*: *TBD*
+- *Video*: Available [here](https://drive.google.com/file/d/1RqjTXRNo6fpYlqDS9Is9TWatNAe4C-NL/view?usp=sharing)
 
 #### Industry Job Panels: Oct. 29, 2020
 
