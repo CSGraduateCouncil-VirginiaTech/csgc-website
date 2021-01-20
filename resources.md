@@ -4,6 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
+## <a name="MentorshipProgram"></a>Mentorship Program<a href="#MentorshipProgram"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+* Students interested in joining or leaving the mentorship program can change their status  using [this](https://docs.google.com/forms/d/e/1FAIpQLSeeFML-P_93Je3t8-uoScsLRPl69VempKU9wB4jnh2Af1Mibw/viewform) form
+
 ## <a name="SocialMedia"></a>Social Media<a href="#SocialMedia"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 * [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here.
