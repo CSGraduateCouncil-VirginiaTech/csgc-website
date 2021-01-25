@@ -14,9 +14,10 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## Upcoming Events
 #### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
-CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by the graduate ombudsperson and a panel of professors whom are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students who are happy in their labs and have a healthy relationship with their advisors.  
+CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by Bryan Hanson, the graduate ombudsperson, and a panel of professors (Doctors Bowman, Butt, North, and Shaffer) who are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students: (Cory Ilo, Kylie Davidson, and Lindah Kotut) who have developed healthy relationships with their advisors and would like to share their experience with you.  
 - *What*: Student-Advisor Relationship Workshop
 - *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
+- *Panelistis*
 - *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - *Registeration*: https://virginiatech.zoom.us/meeting/register/tZIvf-2sqzMrGdyhTN1SqKCZ4YfZ0KipLKrk 
 - *Video*: *TBD*
