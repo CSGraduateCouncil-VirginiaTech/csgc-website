@@ -15,27 +15,58 @@ Here is a list of faculty members and their representative. If you do not see yo
 
 Faculty Name | Representative Name
 :---: | :---:
-Students with no advisor | Arjun Choudhry, Becca Dworak, <br> Jesse Harden, Meena Lohani
+Students with no advisor | Becca Dworak, Meena Lohani
 Doug Bowman | Shakiba Davari
-Ali Butt | 
+Ali Butt | Jingoo Han
 Kirk Cameron | Jon Bernard
 Yang Cao | 
+Ing-Ray Chen | 
+Jin-Hee Cho |
+Taejoong Chung | 
+Stephen H. Edwards |
+Hoda Eldardiry | 
 Wu Feng | Frank Wanye
-Edward Fox | 
-Lenwood Heath | Ramya Nandigam
+Edward Fox | Bipasha Banerjee
+Joe Gabbard | 
+Denis Gracanin | Mark Balfour Manuel
+Steve Harrison |
+Lenwood Heath | Aarathi Raghuraman
 Matthew Hicks | Stefan Nagy
+Lifu Huang | Shuaicheng Zhang
+Ben Jantzen | 
+Myounghoon Jeon (Philart) | Cao Yusheng
+Bo Ji |
+Xun Jian | Muhammad Laghari
+Jiepu Jiang |
+Dennis Kafura | Molly Domino
 Anuj Karpatne | Mohannad Elhamod
+Aisling Kelliher | Setor Zilevu
+Benjamin Knapp | Reza Tasooji
+Greg Kulczycki | 
+Sang Won Lee | Tausif Md Tahsin
+Wenjing Lou | 
 Chang-Tien Lu | Fanglan Chen
 Kurt Luther | Vikram Mohanty
 Scott McCrickard | Derek Haqq
 Na Meng | Bowen She
-Chris North | 
+T. M. Murali | Nure Tasnina
+Chris North | Kylie Davidson
 Alexey Onufriev | 
+Dimitrios Nikolopoulos |
+Nicholas F. Polys |
+Aditya Prakash | Anika Tabassum
+Sharath Raghvendra | Rachita Sowle
 Naren Ramakrishnan | Nikhil Muralidhar
+Chandan Reddy | Akshita Jha
 Adrian Sandu | Andrey Popov
 Francisco Servant | Khadijah Alsafwan
-Cliff Shaffer | 
+Mohammed Seyam | 
+Cliff Shaffer | Rifat Sabbir Mansur
+Jamie Sikora | 
 Deborah Tatar | Aakash Gautam
-Eli Tilevich | Karn Techapalokul
-Layne Watson | 
+Eli Tilevich | Annette Feng
+Joseph G. Trant | 
+Bimal Viswanath | Jiameng Pu
+Layne Watson | Joshua Chance Detwiler
 Danfeng (Daphne) Yao | Myles Frantz
+Liqing Zhang | Monjura Afrin Rumi
