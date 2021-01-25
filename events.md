@@ -35,17 +35,17 @@ CS grad council is inviting you to our Student-Advisor Workshop. In this worksho
 
 #### Mentorship Event: Jan. 21st, 2021
 **Part 1: Mentor Training**  
-The event will provide an overview of the Mentorship Program and give the mentors an opportunity to get to know each other.
+The event provided an overview of the Mentorship Program and gave the mentors an opportunity to get to know each other.
 - *What*: Mentor Training [For Mentors Only]
 - *When*: Thursday, Jan. 21th, 6:00 - 6:20 PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Where*: Zoom. 
 - *Video*: [Recording](https://drive.google.com/file/d/1zgohWirLKw8t8U1dfrIvoN75GHYdw0gN/view?usp=sharing)
 
 **Part 2: Mentor/Mentee Meetup**  
-The event will provide mentors and mentees in the Mentorship Program an opportunity to get to know each other.
+The event provided mentors and mentees in the Mentorship Program an opportunity to join different Zoom breakout rooms and get to know each other.
 - *What*: Mentorship Event [For Mentors and Mentees Only]
 - *When*: Thursday, Jan. 21th, 6:20 - 7:00 PM
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Where*: Zoom. 
 
 ### Fall 2020
 
