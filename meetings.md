@@ -4,18 +4,18 @@ title: Contact and Meeting Info
 permalink: /meetings/
 ---
 
-## Regular meetings
+## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
 Time: Every other Monday, 1:00 PM to 2:00 PM
 
 Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-## Contact
+## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch. 
 
 	**Note:** this mailing list is open to anyone with a vt.edu email address, including the faculty members.
 * Please address sensitive questions or concerns to [gradcouncil@cs.vt.edu](mailto:gradcouncil@cs.vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
 
-## Minutes and Constitution
+## <a name="MinutesandConstitution"></a>Minutes and Constitution<a href="#MinutesandConstitution"><i class="fa fa-link" aria-hidden="true"></i></a>
 If you're interested in what happens at Grad Council meetings, you've come to the right place.
 Meeting minutes live in this Google Drive [folder](https://drive.google.com/drive/folders/0B0b9Zb_kmZenbG1VTnhadTNHVDg?usp=sharing) and can be viewed by anyone with a vt.edu email address.
 

@@ -4,11 +4,11 @@ title: Lab Representatives
 permalink: /lab_representatives/
 ---
 
-## What does a Lab Representative do?
+## <a name="WhatdoesaLabRepresentativedo"></a>What does a Lab Representative do?<a href="#WhatdoesaLabRepresentativedo"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 A representative serves as a communication channel to the council and department leadership. The only thing the position requires is occasional email communication. Our goal is to build a strong community, make sure everyone in the department feels heard, and encourage everyone to share ideas that can improve CS@VT.
 
-## Who are Lab Representatives?
+## <a name="WhoareLabRepresentatives"></a>Who are Lab Representatives?<a href="#WhoareLabRepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Here is a list of faculty members and their representative. If you do not see your advisor in this list or you know someone in the CS department with an advisor who doesn't have a representative, please consider becoming or nominating a representative by filling out [this form](https://forms.gle/TAoSBQd59qu4bNjBA). You can look up their email addresses on the [internal CS Graduate student directory](https://gpc.cs.vt.edu/#/graduate) after signing in.
 

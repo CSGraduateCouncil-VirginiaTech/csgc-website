@@ -6,21 +6,13 @@ permalink: /events/
 
 For some pointers on organizing an event on behalf of the Grad Council, see [the guide](/events/organizing-an-event).
 
-# Calendar
+# <a name="Calendar"></a>Calendar<a href="#Calendar"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 You may see the CS Grad Council Google Calender [here](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 You may also see the Computer Science Defenses (Masters or PhD) Calender [here](https://calendar.google.com/calendar?cid=Y184b2dhNHRtdXNzbjcydXRnM3ViYzRmcXZ2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
-## Upcoming Events
-#### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
-CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by Bryan Hanson, the graduate ombudsperson, and a panel of professors (Doctors Bowman, Butt, North, and Shaffer) who are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students: (Cory Ilo, Kylie Davidson, and Lindah Kotut) who have developed healthy relationships with their advisors and would like to share their experience with you.  
-- *What*: Student-Advisor Relationship Workshop
-- *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
-- *Panelistis*
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- *Registeration*: https://virginiatech.zoom.us/meeting/register/tZIvf-2sqzMrGdyhTN1SqKCZ4YfZ0KipLKrk 
-- *Video*: *TBD*
+## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC ***weekly*** lofi coffee hour: September 24th and on
 
@@ -30,9 +22,17 @@ CS grad council is inviting you to our Student-Advisor Workshop. In this worksho
 
 <br/><br/>
 
-## Past Events
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### Fall 2021
+### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+#### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
+CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by Bryan Hanson, the graduate ombudsperson, and a panel of professors (Doctors Bowman, Butt, North, and Shaffer) who are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students: (Cory Ilo, Kylie Davidson, and Lindah Kotut) who have developed healthy relationships with their advisors and would like to share their experience with you.  
+- *What*: Student-Advisor Relationship Workshop
+- *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
+- *Panelistis*
+- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- *Video*: *TBD*
 
 #### Mentorship Event: Jan. 21st, 2021
 **Part 1: Mentor Training**  
@@ -48,7 +48,7 @@ The event provided mentors and mentees in the Mentorship Program an opportunity 
 - *When*: Thursday, Jan. 21th, 6:20 - 7:00 PM
 - *Where*: Zoom. 
 
-### Fall 2020
+### <a name="Fall2020"></a>Fall 2020<a href="#Fall2020"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Qualifier Q/A: Dec. 3, 2020
 
@@ -75,7 +75,7 @@ The CS Graduate Student Council has organized a Q&A panel for jobs outside of ac
 - *When*: Friday, Sept. 25, 6:00-8:00PM
 - *Where*: Zoom.
 
-### Spring 2020
+### <a name="Spring2020"></a>Spring 2020<a href="#Spring2020"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Virtual Coffee Break: April 16th to August 18th, 2020
 
@@ -115,7 +115,7 @@ The CS Graduate Student Council hasis please to announce the recuitment weekend 
 - *When*: Thursday-Saturday, Feb. 27-29
 - *Where*: Blacksburg
 
-### Fall 2019
+### <a name="Fall2019"></a>Fall 2019<a href="#Fall2019"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Qualifier Q&A: Dec. 4, 2019
 
@@ -157,7 +157,7 @@ This will be a great opportunity to hear about different CS research happening a
 - *Where*: Blacksburg Municipal Park
 - *Food*: Mains provided. Bring a side or dessert if you like
 
-### Spring 2019
+### <a name="Spring2019"></a>Spring 2019<a href="#Spring2019"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Academic Jobs: Feb. 21, 2019
 
@@ -171,7 +171,7 @@ The panelists are six faculty members with a range of experience: assistant prof
 
 If you might want to be a faculty member someday, this is a great event to attend!
 
-### Fall 2018
+### <a name="Fall2018"></a>Fall 2018<a href="#Fall2018"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Qualifier Q&A and Pizza: Nov. 15, 2018
 
@@ -207,7 +207,7 @@ The CS Grad Council is pleased to invite you to the Fall edition of our Lightnin
 
 Slides from the presenters are available [here](https://drive.google.com/open?id=13XGLKy5GpNI1gPxPwn8DkEiBMGU4EniX) if you are signed into a vt.edu email account.
 
-### Spring 2018
+### <a name="Spring2018"></a>Spring 2018<a href="#Spring2018"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Computer Science Graduate Town Hall: Apr. 19, 2018
 
@@ -224,7 +224,7 @@ Ask questions, and propose changes to the department. Eat pizza.
 
 For our friends in Northern Virginia, we'll arrange remote access to the event. As always, no remote access to our pizza will be provided.
 
-### Fall 2017
+### <a name="Fall2017"></a>Fall 2017<a href="#Fall2017"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Qualifier Q&A and Pizza: Dec. 7, 2017
 
