@@ -5,7 +5,16 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Monday, 1:00 PM to 2:00 PM
+Time: Every other Thursday, 17:00 to 18:00
+* Feb 4, 2021 
+* Feb 18, 2021 
+* Mar 4, 2021 
+* Mar 18, 2021 
+* Apr 1, 2021 
+* Apr 15, 2021 
+* Apr 29, 2021 
+* May 13, 2021 
+
 
 Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
