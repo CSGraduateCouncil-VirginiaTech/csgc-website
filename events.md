@@ -31,8 +31,8 @@ In this workshop, we discussed how to create and nurture a healthy relationship 
 - *What*: Student-Advisor Relationship Workshop
 - *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
 - *Where*: Zoom. 
-- *Video*: Access with you VT account from [here](https://drive.google.com/file/d/1SF7MJm-ift1Yy9vKIeL1Bp7C5xASBWDJ/view?usp=sharing).
-- *Slides*: Access with you VT account from [here](https://drive.google.com/file/d/1L1Nudc3Uu3npVKqwud8AfNduQjH8bIWG/view?usp=sharing).
+- *Video*: Access with your VT account from [here](https://drive.google.com/file/d/1SF7MJm-ift1Yy9vKIeL1Bp7C5xASBWDJ/view?usp=sharing).
+- *Slides*: Access with your VT account from [here](https://drive.google.com/file/d/1L1Nudc3Uu3npVKqwud8AfNduQjH8bIWG/view?usp=sharing).
 
 #### Mentorship Event: Jan. 21st, 2021
 **Part 1: Mentor Training**  
