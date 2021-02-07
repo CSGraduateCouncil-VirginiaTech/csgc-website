@@ -27,12 +27,12 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 ### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
-CS grad council is inviting you to our Student-Advisor Workshop. In this workshop, we will discuss how to create and nurture a healthy relationship between you and your advisor. The format will include a talk by Bryan Hanson, the graduate ombudsperson, and a panel of professors (Doctors Bowman, Butt, North, and Shaffer) who are great role-models as advisors, and who could share with us, especially new students, some tips on how to navigate this long-term relationship. We will also have a panel of students: (Cory Ilo, Kylie Davidson, and Lindah Kotut) who have developed healthy relationships with their advisors and would like to share their experience with you.  
+In this workshop, we discussed how to create and nurture a healthy relationship with your advisor. The event started with a presentation by Bryan Hanson, the graduate ombudsperson, and then a QA session with a panel of professors Bowman, Butt, North, and Shaffer, who as great role-model advisors shared with us, some tips on how to navigate this long-term relationship. The panel also included students: Cory Ilo, Kylie Davidson, and Lindah Kotut who have developed healthy relationships with their advisors and shared their experience with us.  
 - *What*: Student-Advisor Relationship Workshop
 - *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
-- *Panelistis*
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- *Video*: *TBD*
+- *Where*: Zoom. 
+- *Video*: Access with your VT account from [here](https://drive.google.com/file/d/1SF7MJm-ift1Yy9vKIeL1Bp7C5xASBWDJ/view?usp=sharing).
+- *Slides*: Access with your VT account from [here](https://drive.google.com/file/d/1L1Nudc3Uu3npVKqwud8AfNduQjH8bIWG/view?usp=sharing).
 
 #### Mentorship Event: Jan. 21st, 2021
 **Part 1: Mentor Training**  
