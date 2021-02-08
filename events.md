@@ -10,8 +10,6 @@ For some pointers on organizing an event on behalf of the Grad Council, see [the
 
 You may see the CS Grad Council Google Calender [here](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-You may also see the Computer Science Defenses (Masters or PhD) Calender [here](https://calendar.google.com/calendar?cid=Y184b2dhNHRtdXNzbjcydXRnM3ViYzRmcXZ2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CS Graduate Preview Weekend
