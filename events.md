@@ -14,7 +14,15 @@ You may also see the Computer Science Defenses (Masters or PhD) Calender [here](
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### CSGC ***weekly*** lofi coffee hour: September 24th and on
+#### CS Graduate Preview Weekend
+
+- *What*: The VT CS Graduate School Preview Weekend that introduces potential invited students to Virginia Tech. There will be info sessions, games, and excitement!
+- *VT Event Website*: [Located Here](https://wordpress.cs.vt.edu/grweekend2021/) 
+- *Where*: Zoom and Mattermost.
+- *When*: Fegruary 26th-27th, look at the calendar listed below.
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%238b1f41&amp;ctz=America%2FNew_York&amp;src=Y19sZDg2aGtzbWR0ZmZraG9ycWRmMTdwaTE3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;showTitle=1&amp;showTabs=0&amp;mode=AGENDA&amp;showPrint=0&amp;showNav=0&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+#### CSGC ***weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
 - *When*: TBD
