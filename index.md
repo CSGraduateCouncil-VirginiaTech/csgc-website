@@ -14,4 +14,3 @@ Outside the department, we voice student opinions in various graduate school for
 Here are some of our activities:
 - We organize [events](/events/).
 - We allocate travel funds for conference travels, details of which can be found in the page [Travel Funding](/travel_funding/).
-- We maintain information about departmental [reading groups](/ReadingGroups/).

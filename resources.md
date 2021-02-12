@@ -16,6 +16,7 @@ permalink: /resources/
 ## <a name="DepartmentLinks"></a>Department Links<a href="#DepartmentLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 * [Departmental Research Resources](https://cs.vt.edu/Research.html)
+* [Reading Groups](https://cs.vt.edu/Research/ReadingGroups.html)
 * [Survey for requesting travel funds](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link)
 * [Center for Instructional Development and Educational Research](https://csgrad.cs.vt.edu/cider/)
 * [Computer Science Compact for the Advisor relationship](https://gpc.cs.vt.edu/shaffer/CSCompact.pdf)
