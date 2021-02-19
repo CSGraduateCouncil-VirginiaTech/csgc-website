@@ -27,6 +27,8 @@ Location: Zoom. Please access the link from the [Calendar Event](https://calenda
 
 * Please feel free to take a look at the [GitHub repositories](https://github.com/CSGraduateCouncil-VirginiaTech) run by the group, (e.g. updating this website).
 
+* Also feel free to reach out to students at this Unofficial and non-Council run or operated [Discord Server](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y).
+
 ## <a name="MinutesandConstitution"></a>Minutes and Constitution<a href="#MinutesandConstitution"><i class="fa fa-link" aria-hidden="true"></i></a>
 If you're interested in what happens at Grad Council meetings, you've come to the right place.
 Meeting minutes live in this Google Drive [folder](https://drive.google.com/drive/folders/0B0b9Zb_kmZenbG1VTnhadTNHVDg?usp=sharing) and can be viewed by anyone with a vt.edu email address.
