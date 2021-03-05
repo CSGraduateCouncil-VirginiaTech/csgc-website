@@ -19,7 +19,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *Where*: Zoom and Mattermost.
 - *When*: Fegruary 26th-27th, look at the calendar listed below.
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%238b1f41&amp;ctz=America%2FNew_York&amp;src=Y19sZDg2aGtzbWR0ZmZraG9ycWRmMTdwaTE3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;showTitle=1&amp;showTabs=0&amp;mode=AGENDA&amp;showPrint=0&amp;showNav=0&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-- *Slides*: Access with your VT account from [here](https://docs.google.com/presentation/d/1yTnX4F2pOPD4yp1xH9l1f3q6hJWwyFaiUEkseJaHkdw/edit?usp=sharing).
+- *Slides*: Access with your VT account from [here](https://docs.google.com/presentation/d/1yTnX4F2pOPD4yp1xH9l1f3q6hJWwyFaiUEkseJaHkdw/preview).
 - 
 #### CSGC ***weekly*** lofi coffee hour
 
