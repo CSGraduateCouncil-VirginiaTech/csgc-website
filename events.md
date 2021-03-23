@@ -12,15 +12,6 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### CS Graduate Preview Weekend
-
-- *What*: The VT CS Graduate School Preview Weekend that introduces potential invited students to Virginia Tech. There will be info sessions, games, and excitement!
-- *VT Graduate Recruiting Weekend 2021 Website*: [Located Here](https://wordpress.cs.vt.edu/grweekend2021/) 
-- *Where*: Zoom and Mattermost.
-- *When*: Fegruary 26th-27th, look at the calendar listed below.
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%238b1f41&amp;ctz=America%2FNew_York&amp;src=Y19sZDg2aGtzbWR0ZmZraG9ycWRmMTdwaTE3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;showTitle=1&amp;showTabs=0&amp;mode=AGENDA&amp;showPrint=0&amp;showNav=0&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-- *Slides*: Access with your VT account from [here](https://docs.google.com/presentation/d/1yTnX4F2pOPD4yp1xH9l1f3q6hJWwyFaiUEkseJaHkdw/preview).
-- 
 #### CSGC ***weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
@@ -33,6 +24,15 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### CS Graduate Preview Weekend
+
+- *What*: The VT CS Graduate Preview Weekend that introduces potential invited students to Virginia Tech. There was a lot of information and wisdom shared through info sessions, games, and tours!
+- *VT Graduate Recruiting Weekend 2021 Website*: [Located Here](https://wordpress.cs.vt.edu/grweekend2021/) 
+- *Where*: Zoom and Slack.
+- *When*: Fegruary 26th-27th
+- *Current Students Panel*: [slides](https://drive.google.com/file/d/1LjVoBpKBD6bWw_dY6nor75MpFZMh9J_2/view?usp=sharing). 
+- *Campus Tour*: See from [here](https://drive.google.com/file/d/1JFgqmhhDHsDvs0wFIDfaHxYLVC3EEkPD/view?usp=sharing).
+
 #### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
 In this workshop, we discussed how to create and nurture a healthy relationship with your advisor. The event started with a presentation by Bryan Hanson, the graduate ombudsperson, and then a QA session with a panel of professors Bowman, Butt, North, and Shaffer, who as great role-model advisors shared with us, some tips on how to navigate this long-term relationship. The panel also included students: Cory Ilo, Kylie Davidson, and Lindah Kotut who have developed healthy relationships with their advisors and shared their experience with us.  
 - *What*: Student-Advisor Relationship Workshop
@@ -40,6 +40,7 @@ In this workshop, we discussed how to create and nurture a healthy relationship 
 - *Where*: Zoom. 
 - *Video*: Access with your VT account from [here](https://drive.google.com/file/d/1SF7MJm-ift1Yy9vKIeL1Bp7C5xASBWDJ/view?usp=sharing).
 - *Slides*: Access with your VT account from [here](https://drive.google.com/file/d/1L1Nudc3Uu3npVKqwud8AfNduQjH8bIWG/view?usp=sharing).
+
 
 #### Mentorship Event: Jan. 21st, 2021
 **Part 1: Mentor Training**  
