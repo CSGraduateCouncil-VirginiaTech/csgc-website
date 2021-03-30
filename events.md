@@ -12,6 +12,13 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### 2nd Hike with CS Grad Council: April 10th, 2021
+
+- *What*: Going hiking!
+- *When*: Saturday, April 10th, 2021, 1:00 to ~4:00 PM
+- *Where*: Pandapas Pond. Please register for the event with this
+  [Google form](https://forms.gle/mqZjtH9kLPx9nRhs9).
+
 #### CSGC ***weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
@@ -27,34 +34,34 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 #### CS Graduate Preview Weekend
 
 - *What*: The VT CS Graduate Preview Weekend that introduces potential invited students to Virginia Tech. There was a lot of information and wisdom shared through info sessions, games, and tours!
-- *VT Graduate Recruiting Weekend 2021 Website*: [Located Here](https://wordpress.cs.vt.edu/grweekend2021/) 
+- *VT Graduate Recruiting Weekend 2021 Website*: [Located Here](https://wordpress.cs.vt.edu/grweekend2021/)
 - *Where*: Zoom and Slack.
-- *When*: Fegruary 26th-27th
-- *Current Students Panel*: [slides](https://drive.google.com/file/d/1LjVoBpKBD6bWw_dY6nor75MpFZMh9J_2/view?usp=sharing). 
+- *When*: February 26th-27th
+- *Current Students Panel*: [slides](https://drive.google.com/file/d/1LjVoBpKBD6bWw_dY6nor75MpFZMh9J_2/view?usp=sharing).
 - *Campus Tour*: See from [here](https://drive.google.com/file/d/1JFgqmhhDHsDvs0wFIDfaHxYLVC3EEkPD/view?usp=sharing).
 
-#### Student-Advisor Relationship Workshop: Jan. 25th, 2021  
-In this workshop, we discussed how to create and nurture a healthy relationship with your advisor. The event started with a presentation by Bryan Hanson, the graduate ombudsperson, and then a QA session with a panel of professors Bowman, Butt, North, and Shaffer, who as great role-model advisors shared with us, some tips on how to navigate this long-term relationship. The panel also included students: Cory Ilo, Kylie Davidson, and Lindah Kotut who have developed healthy relationships with their advisors and shared their experience with us.  
+#### Student-Advisor Relationship Workshop: Jan. 25th, 2021
+In this workshop, we discussed how to create and nurture a healthy relationship with your advisor. The event started with a presentation by Bryan Hanson, the graduate ombudsperson, and then a QA session with a panel of professors Bowman, Butt, North, and Shaffer, who as great role-model advisors shared with us, some tips on how to navigate this long-term relationship. The panel also included students: Cory Ilo, Kylie Davidson, and Lindah Kotut who have developed healthy relationships with their advisors and shared their experience with us.
 - *What*: Student-Advisor Relationship Workshop
 - *When*: Monday, Jan. 25th, 5:00 - 6:30 PM
-- *Where*: Zoom. 
+- *Where*: Zoom.
 - *Video*: Access with your VT account from [here](https://drive.google.com/file/d/1SF7MJm-ift1Yy9vKIeL1Bp7C5xASBWDJ/view?usp=sharing).
 - *Slides*: Access with your VT account from [here](https://drive.google.com/file/d/1L1Nudc3Uu3npVKqwud8AfNduQjH8bIWG/view?usp=sharing).
 
 
 #### Mentorship Event: Jan. 21st, 2021
-**Part 1: Mentor Training**  
+**Part 1: Mentor Training**
 The event provided an overview of the Mentorship Program and gave the mentors an opportunity to get to know each other.
 - *What*: Mentor Training [For Mentors Only]
 - *When*: Thursday, Jan. 21th, 6:00 - 6:20 PM
-- *Where*: Zoom. 
+- *Where*: Zoom.
 - *Video*: [Recording](https://drive.google.com/file/d/1zgohWirLKw8t8U1dfrIvoN75GHYdw0gN/view?usp=sharing)
 
-**Part 2: Mentor/Mentee Meetup**  
+**Part 2: Mentor/Mentee Meetup**
 The event provided mentors and mentees in the Mentorship Program an opportunity to join different Zoom breakout rooms and get to know each other.
 - *What*: Mentorship Event [For Mentors and Mentees Only]
 - *When*: Thursday, Jan. 21th, 6:20 - 7:00 PM
-- *Where*: Zoom. 
+- *Where*: Zoom.
 
 ### <a name="Fall2020"></a>Fall 2020<a href="#Fall2020"><i class="fa fa-link" aria-hidden="true"></i></a>
 
@@ -75,7 +82,7 @@ The CS Graduate Student Council has organized a Q&A panel for jobs outside of ac
 - *When*: Thursday, Oct. 29, 4:30 - 6 PM
 - *Where*: Zoom.
 - *Video*: Available [here](https://drive.google.com/file/d/1uekYlBydBEAHlT6GRtkt0QcoUJyJe29Y/view)
-- *Follow-up*: Please find panelists contact information [here](https://docs.google.com/document/d/1WOs48uIgDIBurvpUr8zQJwNO6IljDrHQiJqBknpQaU8/preview). 
+- *Follow-up*: Please find panelists contact information [here](https://docs.google.com/document/d/1WOs48uIgDIBurvpUr8zQJwNO6IljDrHQiJqBknpQaU8/preview).
 
 #### Welcome Event: September 25th, 2020
 
@@ -195,7 +202,7 @@ If you'd like to pass the qualifier on research points, we'll be talking about t
 
 #### Community Building: Nov. 9, 2018
 
-The CS Grad Council is pleased to invite you to CS Grad Student Community Building in an effort to bring CS grad students together and better connect the department together as a whole. 
+The CS Grad Council is pleased to invite you to CS Grad Student Community Building in an effort to bring CS grad students together and better connect the department together as a whole.
 
 - *What*: CS Grad Student Community Building
 - *When*: Friday, November 9, 12-2PM
