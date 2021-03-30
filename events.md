@@ -22,8 +22,8 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 #### CSGC ***weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
-- *When*: TBD
-- *Where*: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- *When*: April 1st, 6:00 - 7:00 PM
+- *Where*: Discord, the Coffee Hour Channel in the Grad Council Section. You can find the Discord invite [here](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y)
 
 <br/><br/>
 
