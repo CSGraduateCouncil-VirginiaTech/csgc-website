@@ -15,7 +15,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 #### 2nd Hike with CS Grad Council: April 10th, 2021
 
 - *What*: Going hiking!
-- *When*: Saturday, April 10th, 2021, 13:00 to ~16:00
+- *When*: Saturday, April 10th, 2021, 1:00 to ~4:00 PM
 - *Where*: Pandapas Pond. Please register for the event with this
   [Google form](https://forms.gle/mqZjtH9kLPx9nRhs9).
 
