@@ -12,17 +12,10 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### 2nd Hike with CS Grad Council: April 10th, 2021
-
-- *What*: Going hiking!
-- *When*: Saturday, April 10th, 2021, 1:00 to ~4:00 PM
-- *Where*: Pandapas Pond. Please register for the event with this
-  [Google form](https://forms.gle/mqZjtH9kLPx9nRhs9).
-
-#### CSGC ***weekly*** lofi coffee hour
+#### CSGC ***bi-weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
-- *When*: April 1st, 6:00 - 7:00 PM
+- *When*: April 29th, 6:00 - 7:00 PM
 - *Where*: Discord, the Coffee Hour Channel in the Grad Council Section. You can find the Discord invite [here](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y)
 
 <br/><br/>
@@ -30,6 +23,12 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 ### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+#### 2nd Hike with CS Grad Council: April 17th, 2021
+
+- *What*: Going hiking!
+- *When*: Saturday, April 17th, 2021, 1:00 to ~4:00 PM
+- *Where*: Pandapas Pond. Please register for the event with this
 
 #### CS Graduate Preview Weekend
 
@@ -39,6 +38,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *When*: February 26th-27th
 - *Current Students Panel*: [slides](https://drive.google.com/file/d/1LjVoBpKBD6bWw_dY6nor75MpFZMh9J_2/view?usp=sharing).
 - *Campus Tour*: See from [here](https://drive.google.com/file/d/1JFgqmhhDHsDvs0wFIDfaHxYLVC3EEkPD/view?usp=sharing).
+- *Teaser video*: See from [here](https://youtu.be/6gf78rdjkdo).
 
 #### Student-Advisor Relationship Workshop: Jan. 25th, 2021
 In this workshop, we discussed how to create and nurture a healthy relationship with your advisor. The event started with a presentation by Bryan Hanson, the graduate ombudsperson, and then a QA session with a panel of professors Bowman, Butt, North, and Shaffer, who as great role-model advisors shared with us, some tips on how to navigate this long-term relationship. The panel also included students: Cory Ilo, Kylie Davidson, and Lindah Kotut who have developed healthy relationships with their advisors and shared their experience with us.
