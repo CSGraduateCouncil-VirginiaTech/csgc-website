@@ -8,26 +8,26 @@ permalink: /officers/
 
 ## <a name="Officers"></a>Officers<a href="#Officers"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="Myles">[Myles Frantz](https://franceme.github.io), President<a href="#Myles"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Shakiba has taken control from Ayaan.
+Myles has entered the playing field.
 
-### <a name="Myles">[Myles Frantz](https://franceme.github.io/), Vice President<a href="#Myles"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Alex">[Alex Hicks](https://awhicks.github.io), Vice President<a href="#Alex"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Myles makes sure Shakiba is on time, and makes life easier for her.
+Alex is running mid to push the agenda forward.
 
-### <a name="Frank">[Frank Wanye](https://ffrankies.github.io/), Secretary<a href="#Frank"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Kylie">[Kylie Davidson](https://wordpress.cs.vt.edu/3digroup/author/kyliedavidson), Secretary<a href="#Kylie"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Who watches the watchers.
+Kylie ensures everything is documented.
 
-### <a name="Mohannad">[Mohannad Elhamod](https://linkedin.com/in/mohannad-elhamod-088b6118/), Treasurer<a href="#Mohannad"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Joshua">[Joshua Detwiler](https://jcdetwiler.github.io), Treasurer<a href="#Joshua"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Keep on his good side, for he is the money man.
+Joshua controls the flow of money and energizes the NFTs.
 
-### <a name="Ayaan">[Ayaan Kazerouni](https://ayaankazerouni.github.io/), Past President<a href="#Ayaan"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Past President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Ayaan has all the wisdom.
+Shakiba is the watchful eye.
 
 ## <a name="GSARepresentatives">GSA Representatives<a href="#GSARepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representative is Frank Wanye.
+Our [VT GSA](https://gsa.vt.edu/) representative is Frank Wanye.
