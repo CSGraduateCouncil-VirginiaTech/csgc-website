@@ -30,4 +30,4 @@ Ayaan has all the wisdom.
 
 ## <a name="GSARepresentatives">GSA Representatives<a href="#GSARepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representatives are Mohannad Elhamod and Mostafa Mohammed.
+Our [VT GSA](http://blogs.lt.vt.edu/graduatestudentassembly/) representative is Frank Wanye.
