@@ -8,7 +8,6 @@ permalink: /meetings/
 Time: Every other Thursday, 18:00 to 19:00
 * [Apr 22, 2021](https://virginiatech.zoom.us/j/81481692381)
 * [May 06, 2021](https://virginiatech.zoom.us/j/81481692381)
-* [May 20, 2021](https://virginiatech.zoom.us/j/81481692381)
 
 
 Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
