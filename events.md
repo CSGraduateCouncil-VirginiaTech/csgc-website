@@ -5,6 +5,7 @@ permalink: /events/
 ---
 
 For some pointers on organizing an event on behalf of the Grad Council, see [the guide](/events/organizing-an-event).
+* [Extra Event Money Guidelines](https://docs.google.com/document/d/1nOw6py3oOHV5FhKK5b01efl6lL1DPHU93S1oQjZJ5Ok/edit)
 
 # <a name="Calendar"></a>Calendar<a href="#Calendar"><i class="fa fa-link" aria-hidden="true"></i></a>
 
