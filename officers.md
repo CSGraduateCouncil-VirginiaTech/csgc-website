@@ -16,7 +16,7 @@ Myles has entered the playing field.
 
 Alex is running mid to push the agenda forward.
 
-### <a name="Kylie">[Kylie Davidson](https://wordpress.cs.vt.edu/3digroup/author/kyliedavidson), Secretary<a href="#Kylie"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Kylie">[Kylie Davidson](https://www.linkedin.com/in/kylie-davidson-96a069101), Secretary<a href="#Kylie"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Kylie ensures everything is documented.
 
