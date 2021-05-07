@@ -13,10 +13,18 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+
+#### CSGC End of Semester Event
+
+- *What*: CSGC End Of Semseter Event
+- *When*: Thursday, May 13 5:00 - 8:00 PM
+- *Where*: Municipal Park Shelter II (920 Turner St NE, Blacksburg, VA 24060)
+- *Details*: See more information and sign up using this [link](https://forms.gle/3cFmSzJR7zWXPwGe8)
+
 #### CSGC ***bi-weekly*** lofi coffee hour
 
 - *What*: CSGC lofi coffee hour
-- *When*: April 29th, 6:00 - 7:00 PM
+- *When*: May 20th, 6:00 - 7:00 PM
 - *Where*: Discord, the Coffee Hour Channel in the Grad Council Section. You can find the Discord invite [here](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y)
 
 <br/><br/>
