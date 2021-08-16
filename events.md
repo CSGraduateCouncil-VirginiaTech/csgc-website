@@ -14,6 +14,19 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 
+#### CSGC Welcome Back Picnic
+
+- *What*: CSGC Welcome Back Picnic
+- *When*: Friday, August 27 5:00 - 7:00 PM
+- *Where*: Municipal Park Shelter I (920 Turner St NE, Blacksburg, VA 24060)
+- *Details*: See more information and sign up using this [link](https://forms.gle/8thLi3T8AFh6sCM47)
+
+<br/><br/>
+
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 #### CSGC End of Semester Event
 
 - *What*: CSGC End Of Semseter Event
@@ -26,12 +39,6 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *What*: CSGC lofi coffee hour
 - *When*: May 20th, 6:00 - 7:00 PM
 - *Where*: Discord, the Coffee Hour Channel in the Grad Council Section. You can find the Discord invite [here](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y)
-
-<br/><br/>
-
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### 2nd Hike with CS Grad Council: April 17th, 2021
 
