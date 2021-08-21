@@ -30,12 +30,13 @@ not necessarily approved in all cases. Senior PhD students, for whom
 multiple trips in a year are common, are more likely to receive multiple
 funding awards in a given year.
 
-<s>Due to funding constraints, support levels are limited to
-**$400 for travel in the US** and **$600 for international travel**. Getting
-support from other sources, such as your advisor and the GSA, is still
-important.</s>
+Due to funding constraints, support levels are limited to:
+* $200 for virtual attendance
+* $400 for travel within the US
+* $600 for international travel
 
-**COVID-19 update:** Due to anticipated short-term budget constraints in our department, and since conferences are now in virtual mode due to the pandemic, **the upper limit for conference reimbursements has been lowered to $200**. This policy is expected to be revoked once in-person conferences resume. In the meantime, when needed, please consider additional sources of funding and support, such as your advisor, [TFP](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/), or the conference itself.
+Getting support from other sources, such as your advisor and the GSA, is also helpful.
+When needed, please consider additional sources of funding and support, such as your advisor, [TFP](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/), or the conference itself.
 
 ## <a name="Othersourcesoftravelfunding"></a>Other sources of travel funding<a href="#Othersourcesoftravelfunding"><i class="fa fa-link" aria-hidden="true"></i></a>
 
