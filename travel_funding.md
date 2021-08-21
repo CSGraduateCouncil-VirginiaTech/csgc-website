@@ -31,7 +31,7 @@ multiple trips in a year are common, are more likely to receive multiple
 funding awards in a given year.
 
 Due to funding constraints, support levels are limited to:
-* $200 for virtual conferences
+* $200 for virtual attendance
 * $400 for travel within the US
 * $600 for international travel
 
