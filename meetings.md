@@ -5,9 +5,8 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Thursday, 18:00 to 19:00
-* [Apr 22, 2021](https://virginiatech.zoom.us/j/81481692381)
-* [May 06, 2021](https://virginiatech.zoom.us/j/81481692381)
+Time: Every other Thursday, 13:00 to 14:00
+* TBD
 
 
 Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
