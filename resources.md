@@ -96,6 +96,7 @@ Here is the information that Grad Council has collected on the academic job sear
 
 * [Reserve a room KWII](http://www.admin.cs.vt.edu/)
 * [Reserving a room in CRC](http://www.vtcrc.com/reserve-a-conference-room/)
+* [Reserving a room in Torg](https://admin.cs.vt.edu/mrbs/day.php)
 * [HealthInformation](https://www.hr.vt.edu/benefits/health/insurance/health.html)
 * [Movies](https://digitalcampus-swankmp-net.ezproxy.lib.vt.edu)
 * [Extra Links and Resources](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?usp=sharing)
