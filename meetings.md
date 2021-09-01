@@ -1,18 +1,24 @@
 ---
 layout: page
-title: Contact and Meeting Info 
+title: Contact and Meeting Info
 permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
 Time: Every other Thursday, 13:00 to 14:00
-* TBD
+* Sept. 2
+* Sept. 16
+* Sept. 30
+* Oct. 14
+* Oct. 28
+* Nov. 11
+* Nov. 25
+* Dec. 9
 
-
-Location: Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Location: Torg 3160A and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
-* See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch. 
+* See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch.
 
 	**Note:** this mailing list is open to anyone with a vt.edu email address, including the faculty members.
 * Please address sensitive questions or concerns to [gradcouncil@cs.vt.edu](mailto:gradcouncil@cs.vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
