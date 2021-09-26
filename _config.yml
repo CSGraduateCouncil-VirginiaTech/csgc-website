@@ -38,6 +38,8 @@ main_pages:
     title: "Lab Representatives"
   - url: "/checklist/"
     title: "Graduate Student Checklist"
+  - url: "https://groups.google.com/a/vt.edu/g/csgc-g"
+    title: "Mailing List and Group"
 twitter_username:
 github_username:
 
