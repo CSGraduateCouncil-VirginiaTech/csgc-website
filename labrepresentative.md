@@ -16,22 +16,28 @@ Here is a list of faculty members and their representative. If you do not see yo
 Faculty Name | Representative Name
 :---: | :---:
 Students with no advisor | Becca Dworak, Meena Lohani
+Debswapna Bhattacharya | 
+Chris Brown | 
 Doug Bowman | Shakiba Davari
 Ali Butt | Jingoo Han
 Kirk Cameron | Jon Bernard
 Yang Cao | 
 Ing-Ray Chen | 
-Jin-Hee Cho |
+Jin-Hee Cho | 
 Taejoong Chung | 
-Stephen H. Edwards |
+Stephen H. Edwards | 
 Hoda Eldardiry | 
 Wu Feng | Frank Wanye
 Edward Fox | Bipasha Banerjee
 Joe Gabbard | 
+Peng Gao | 
 Denis Gracanin | Mark Balfour Manuel
-Steve Harrison |
+Muhammad Ali Gulzar | 
+Shaddi Hasan | 
 Lenwood Heath | Aarathi Raghuraman
 Matthew Hicks | Stefan Nagy
+Sara Hooshangi | 
+Liting Hu | 
 Lifu Huang | Shuaicheng Zhang
 Ben Jantzen | 
 Myounghoon Jeon (Philart) | Cao Yusheng
@@ -45,6 +51,7 @@ Benjamin Knapp | Reza Tasooji
 Greg Kulczycki | 
 Sang Won Lee | Tausif Md Tahsin
 Wenjing Lou | 
+Ismini Lourentzou | 
 Chang-Tien Lu | Fanglan Chen
 Kurt Luther | Vikram Mohanty
 Scott McCrickard | Derek Haqq
@@ -56,6 +63,7 @@ Dimitrios Nikolopoulos |
 Nicholas F. Polys |
 Aditya Prakash | Anika Tabassum
 Sharath Raghvendra | Rachita Sowle
+Eugenia Rho | 
 Naren Ramakrishnan | Nikhil Muralidhar
 Chandan Reddy | Akshita Jha
 Adrian Sandu | Andrey Popov
@@ -68,5 +76,8 @@ Eli Tilevich | Annette Feng
 Joseph G. Trant | 
 Bimal Viswanath | Jiameng Pu
 Layne Watson | Joshua Chance Detwiler
+Dan Williams | 
+Yalong Yang | 
 Danfeng (Daphne) Yao | Myles Frantz
 Liqing Zhang | Monjura Afrin Rumi
+Dawai Zhou | 
