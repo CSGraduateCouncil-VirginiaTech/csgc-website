@@ -16,7 +16,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 #### CSGC Lightning Talks
 
 - *What*: CSGC Lightning Talks
-- *When*: Fix this in a GitHub review
+- *When*: Tuesday, October 5, 5:00 - 7:00 PM
 - *Where*: Surge 104D & via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/PDHMUtDcMWsmz5856)
 
