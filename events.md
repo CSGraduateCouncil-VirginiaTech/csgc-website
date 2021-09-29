@@ -13,6 +13,25 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### CSGC Lightning Talks
+
+- *What*: CSGC Lightning Talks
+- *When*: Tuesday, October 5, 5:00 - 7:00 PM
+- *Where*: Surge 104D & via Zoom
+- *Details*: See more information and sign up using this [link](https://forms.gle/PDHMUtDcMWsmz5856)
+
+#### CSGC Industry Jobs Panel
+
+- *What*: CSGC Industry Jobs Panel
+- *When*: Wednesday, September 29, 4:00 - 5:30 PM
+- *Where*: Torgersen 2150 & via Zoom
+- *Details*: See more information and sign up using this [link](https://forms.gle/rZJyZZLg3rau4RNX9)
+
+<br/><br/>
+
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Fall2021"></a>Fall 2021<a href="#Fall2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC Welcome Back Picnic
 
@@ -20,10 +39,6 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *When*: Friday, August 27 5:00 - 7:00 PM
 - *Where*: Municipal Park Shelter I (920 Turner St NE, Blacksburg, VA 24060)
 - *Details*: See more information and sign up using this [link](https://forms.gle/8thLi3T8AFh6sCM47)
-
-<br/><br/>
-
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 ### <a name="Spring2021"></a>Spring 2021<a href="#Spring2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
