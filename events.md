@@ -13,6 +13,13 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### Microsoft Hackathon
+
+- *What*: Microsoft Hackathon
+- *When*: Tuesday-Thursday, October 12-14
+- *Where*: TBD
+- *Details*: TBD
+
 #### CSGC Lightning Talks
 
 - *What*: CSGC Lightning Talks
