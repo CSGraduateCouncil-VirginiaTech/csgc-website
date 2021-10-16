@@ -39,7 +39,7 @@ permalink: /resources/
 * [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html)
 * [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses)
 * [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest)
-* [Advising Guideline](https://gpc.cs.vt.edu/shaffer/CSCompact.pdf)
+* [Advising Guideline](https://drive.google.com/file/d/1ind38gD_62ctcKn8I83IIe3gH_oCjffI/view?usp=sharing)
 * [IRB](https://secure.research.vt.edu/irb/) - Creating Surveys
 
 
