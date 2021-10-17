@@ -91,6 +91,12 @@ Here is the information that Grad Council has collected on the academic job sear
 * [Interviewing FAQ](https://docs.google.com/document/d/154-0sCUOPoKHCKGLu2T6ZAe-fTn8ZXEOYUQYdO6F6A8/edit?usp=sharing)
 * [Other Useful Information](https://drive.google.com/drive/folders/1xH1XBAkEfTZA8MXvu94PtfaKTZzg_rRp)
 
+### <a name="MEngCoops"></a>MEng Coops<a href="#MEngCoops"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+This may be possible within your last semester.
+
+Please email [Sara Hooshangi](mailto:shoosh@vt.edu) and the [Graduate School](mailto:grads@vt.edu) asking about this.
+
 
 ## <a name="Reservations"></a>Reservations<a href="#Reservations"><i class="fa fa-link" aria-hidden="true"></i></a>
 * [Reserve a room KWII](http://www.admin.cs.vt.edu/)
