@@ -13,12 +13,11 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### Microsoft Hackathon
+<br/><br/>
 
-- *What*: Microsoft Hackathon
-- *When*: Tuesday-Thursday, October 12-14
-- *Where*: TBD
-- *Details*: TBD
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Fall2021"></a>Fall 2021<a href="#Fall2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC Lightning Talks
 
@@ -33,12 +32,6 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *When*: Wednesday, September 29, 4:00 - 5:30 PM
 - *Where*: Torgersen 2150 & via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/rZJyZZLg3rau4RNX9)
-
-<br/><br/>
-
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-### <a name="Fall2021"></a>Fall 2021<a href="#Fall2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC Welcome Back Picnic
 
