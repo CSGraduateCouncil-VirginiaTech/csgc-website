@@ -102,6 +102,7 @@ Please email [Sara Hooshangi](mailto:shoosh@vt.edu) and the [Graduate School](ma
 * [Reserving a room in CRC](http://www.vtcrc.com/reserve-a-conference-room/)
 * [Reserving a room in Torg](https://admin.cs.vt.edu/mrbs/day.php)
 * [Torg Classroom Availability](http://info.classroomav.vt.edu/)
+* [GLC Availability](https://www.ems.campuslife.vt.edu/EmsWebApp/)
 
 ## <a name="General"></a>General<a href="#General"><i class="fa fa-link" aria-hidden="true"></i></a>
 
