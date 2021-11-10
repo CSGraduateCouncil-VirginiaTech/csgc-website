@@ -13,7 +13,11 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-<br/><br/>
+#### Hike with CS Grad Council: November 14th, 2021
+
+- *What*: Going hiking!
+- *When*: Sunday, November 14th, 2021, 1:30 to ~4:00 PM
+- *Where*: Pandapas Pond. Please register for the event [here](https://forms.gle/FUWxBfbx7sLi4uaK6)
 
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
