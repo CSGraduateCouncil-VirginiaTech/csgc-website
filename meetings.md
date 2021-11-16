@@ -31,7 +31,7 @@ The Grad Council abides by this [constitution](https://docs.google.com/document/
 ## <a name="GPSSInfo"></a>GPSS Representatives<a href="#GPSSInfo"><i class="fa fa-link" aria-hidden="true"></i></a>
 You can always access detailed information about the Graduate and Professional Student Senate(GPSS) [Resolutions](https://gpss.vt.edu/the-senate/resolutions.html) and the [Senate Meetings and Minutes](https://gpss.vt.edu/the-senate/senate-meetings-minutes.html) from their [Website](https://gpss.vt.edu/). 
 
-Before each GPSS meeting, you can leave your anonymous comments on the resolutions that will be read and voted on at that meeting. If you are For, or Against a resolution, please leave your comments on that resolution in the following Google Form so your representitives can effectively relay this to GPSS, and represent your concerns before the resolution is voted on.
+Before each GPSS meeting, you can leave your anonymous comments on the resolutions that will be read and voted on at that meeting. If you are For, or Against a resolution, please leave your comments on that resolution in the following Google Form so your representatives can effectively relay this to GPSS, and represent your concerns before the resolution is voted on.
 
 * On the GPSS Meeting on Nov 18, Resolution O, P, Q, R, S will be read for the second time and voted on! Resolutions T, U, V will be read for the first time, and will be voted on in the meeting after. Please leave your comments on these resolutions in [this Google From](https://forms.gle/YAP1RurkHHgY72g2A).
 
