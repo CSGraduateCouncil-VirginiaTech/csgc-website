@@ -27,4 +27,3 @@ Joshua controls the flow of money and energizes the NFTs.
 ### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Past President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Shakiba is the watchful eye.
-

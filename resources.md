@@ -29,6 +29,7 @@ permalink: /resources/
 * [Final Exam](https://ess.graduateschool.vt.edu/pages/NewExam.php)
 * [VT-&gt;ACM](https://dl-acm-org.ezproxy.lib.vt.edu/)
 * [VT-&gt;IEEE](https://ieeexplore-ieee-org.ezproxy.lib.vt.edu/)
+* [Qualifier Link](https://people.cs.vt.edu/kluther/qualifier/2021/)
 
 ## <a name="AcademicLinks"></a>Academic Links<a href="#AcademicLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
