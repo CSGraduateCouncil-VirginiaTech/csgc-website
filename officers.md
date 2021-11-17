@@ -28,6 +28,6 @@ Joshua controls the flow of money and energizes the NFTs.
 
 Shakiba is the watchful eye.
 
-## <a name="GSARepresentatives">GSA Representatives<a href="#GSARepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
+## <a name="GPSSRepresentatives">GPSS Representatives<a href="#GPSSRepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Our [VT GSA](https://gsa.vt.edu/) representative is TBD.
+You can send an email to [csgc-gpss@cs.vt.edu](mailto:csgc-gpss@cs.vt.edu) to contact the CS department's representitives at [VT Graduate and Professional Student Senate (GPSS)](https://gpss.vt.edu/).
