@@ -6,7 +6,6 @@ permalink: /meetings/
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
 Time: Every other Thursday, 13:00 to 14:00
-* Nov. 25
 * Dec. 9
 
 Location: Torg 1210 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
