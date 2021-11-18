@@ -27,7 +27,3 @@ Joshua controls the flow of money and energizes the NFTs.
 ### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Past President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Shakiba is the watchful eye.
-
-## <a name="GPSSRepresentatives">GPSS Representatives<a href="#GPSSRepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-You can send an email to [csgc-gpss@cs.vt.edu](mailto:csgc-gpss@cs.vt.edu) to contact the CS department's representitives at [VT Graduate and Professional Student Senate (GPSS)](https://gpss.vt.edu/).
