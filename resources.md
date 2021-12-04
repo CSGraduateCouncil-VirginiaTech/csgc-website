@@ -13,6 +13,16 @@ permalink: /resources/
 * [CS@VT Grad Students Facebook Group](https://www.facebook.com/groups/vtcsgrads): In addition to sending out email, we'll make frequent posts here.
 * [Social events Slack channel](https://join.slack.com/t/vtcsgradsummer19/shared_invite/enQtNjcwOTA4NTMzMzAyLTM4MzJhM2IzMGQ0ZWNiZmIzMGJmZjAxNjhhZWNlYmUzZjJlOTkxMjMzMmY5NDk4MzBjYTc5OGM4NTY4OWNmNmI): Students and Grad Council members use this to plan miscellaneous (informal) weekend trips and afternoons / evenings out. The name is currently pending revision, please ignore "Summer 2019" references.
 
+## <a name="ResearchHours"></a>Changing your Research Hours<a href="#ResearchHours"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+Steps to change your research hours (CS 5994 for MS and CS 7994 for PhD):
+
+1. Signup for the required research hours course
+2. Go to Schedule and Options menu
+3. Click on the credit hours
+4. Replace the value (default 1) with the number of research hours you want
+5. Click the submit button
+
 ## <a name="DepartmentLinks"></a>Department Links<a href="#DepartmentLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 * [Departmental Research Resources](https://cs.vt.edu/Research.html)
