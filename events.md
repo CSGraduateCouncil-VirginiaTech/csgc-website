@@ -17,6 +17,20 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ### <a name="Fall2021"></a>Fall 2021<a href="#Fall2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### CSGC Academic Jobs Panel
+
+- *What*: CSGC Academic Jobs Panel
+- *When*: Thursday, December 2, 5:30PM-6:30PM
+- *Where*: Surge 104D
+- *Details*: See more information and sign up using this [link](https://forms.gle/nRwcySUbhx8pfTuu8)
+
+#### CSGC Qualifier Q&A
+
+- *What*: CSGC Qualifier Q&A
+- *When*: Tuesday, November 30, 5:00PM - 6:30PM
+- *Where*: McBryde 110
+- *Details*: See more information and sign up using this [link](https://forms.gle/89Rpmq6UWqh3zjHf7)
+
 #### CSGC Lightning Talks
 
 - *What*: CSGC Lightning Talks
