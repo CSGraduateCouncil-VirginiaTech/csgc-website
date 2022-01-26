@@ -5,8 +5,15 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Thursday, 13:00 to 14:00
-* Dec. 9
+Time: Every other Wednesday, 14:00 to 15:00
+* Jan 26
+* Feb 9
+* Feb 23
+* Mar 9
+* Mar 23
+* Apr 6
+* Apr 20
+* May 4
 
 Location: Torg 1210 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
