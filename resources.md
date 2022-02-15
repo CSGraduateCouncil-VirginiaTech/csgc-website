@@ -51,6 +51,8 @@ Steps to change your research hours (CS 5994 for MS and CS 7994 for PhD):
 * [Advanced Courses](http://people.cs.vt.edu/barnette/grad/courses)
 * [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest)
 * [IRB](https://secure.research.vt.edu/irb/) - Creating Surveys
+* [Overleaf - ETD Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
+* [VT Templates](https://www.overleaf.com/gallery/tagged/vt)
 
 
 ## <a name="Calendars"></a>VT run calendars<a href="#Calendars"><i class="fa fa-link" aria-hidden="true"></i></a>
