@@ -11,6 +11,7 @@ A representative serves as a communication channel to the council and department
 ## <a name="WhoareLabRepresentatives"></a>Who are Lab Representatives?<a href="#WhoareLabRepresentatives"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Here is a list of faculty members and their representative. If you do not see your advisor in this list or you know someone in the CS department with an advisor who doesn't have a representative, please consider becoming or nominating a representative by filling out [this form](https://forms.gle/TAoSBQd59qu4bNjBA). You can look up their email addresses on the [internal CS Graduate student directory](https://gpc.cs.vt.edu/#/graduate) after signing in.
+Please find the mailing list located [here](https://groups.google.com/a/vt.edu/g/csgc-labreps-g/).
 
 
 Faculty Name | Representative Name
