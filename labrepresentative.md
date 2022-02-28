@@ -16,12 +16,12 @@ Please find the mailing list located [here](https://groups.google.com/a/vt.edu/g
 
 Faculty Name | Representative Name
 :---: | :---:
-Students with no advisor | Becca Dworak, Meena Lohani
+Students with no advisor |
 Debswapna Bhattacharya | 
 Chris Brown | 
-Doug Bowman | Shakiba Davari
+Doug Bowman | Cory Ilo
 Ali Butt | Jingoo Han
-Kirk Cameron | Jon Bernard
+Kirk Cameron |
 Yang Cao | 
 Ing-Ray Chen | 
 Jin-Hee Cho | 
@@ -35,11 +35,11 @@ Peng Gao |
 Denis Gracanin | Mark Balfour Manuel
 Muhammad Ali Gulzar | 
 Shaddi Hasan | 
-Lenwood Heath | Aarathi Raghuraman
-Matthew Hicks | Stefan Nagy
+Lenwood Heath |
+Matthew Hicks |
 Sara Hooshangi | 
 Liting Hu | 
-Lifu Huang | Shuaicheng Zhang
+Lifu Huang |
 Ben Jantzen | 
 Myounghoon Jeon (Philart) | Cao Yusheng
 Bo Ji |
@@ -56,23 +56,21 @@ Ismini Lourentzou |
 Chang-Tien Lu | Fanglan Chen
 Kurt Luther | Vikram Mohanty
 Scott McCrickard | Derek Haqq
-Na Meng | Bowen She
+Na Meng | Bowen Shen
 T. M. Murali | Nure Tasnina
 Chris North | Kylie Davidson
 Alexey Onufriev | 
 Dimitrios Nikolopoulos |
 Nicholas F. Polys |
-Aditya Prakash | Anika Tabassum
 Sharath Raghvendra | Rachita Sowle
 Eugenia Rho | 
 Naren Ramakrishnan | Nikhil Muralidhar
 Chandan Reddy | Akshita Jha
-Adrian Sandu | Andrey Popov
+Adrian Sandu | Amit Subrahmanya
 Francisco Servant | Khadijah Alsafwan
 Mohammed Seyam | 
 Cliff Shaffer | Rifat Sabbir Mansur
 Jamie Sikora | 
-Deborah Tatar | Aakash Gautam
 Eli Tilevich | Annette Feng
 Joseph G. Trant | 
 Bimal Viswanath | Jiameng Pu
