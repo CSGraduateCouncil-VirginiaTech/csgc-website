@@ -20,9 +20,9 @@ Alex is running mid to push the agenda forward.
 
 Kylie ensures everything is documented.
 
-### <a name="Joshua">[Joshua Detwiler](https://jcdetwiler.github.io), Treasurer<a href="#Joshua"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Joshua">[Joshua Detwiler](https://jdetwiler.tech), Treasurer<a href="#Joshua"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Joshua controls the flow of money and energizes the NFTs.
+Joshua controls the flow of money.
 
 ### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Past President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
 
