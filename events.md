@@ -13,14 +13,16 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Spring2022"></a>Spring 2022<a href="#Spring2022"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 #### CSGC End of Semester Event
 
 - *What*: End of Semester Event
 - *When*: Friday, May 6, 4:00PM-Dark
 - *Where*: Municipal Park Shelter I (920 Turner St NE, Blacksburg, VA 24060)
 - *Details*: See more information and sign up using this [link](https://forms.gle/dbqCaThZquqpyhnM9)
-
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 ### <a name="Fall2021"></a>Fall 2021<a href="#Fall2021"><i class="fa fa-link" aria-hidden="true"></i></a>
 
