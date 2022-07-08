@@ -8,22 +8,23 @@ permalink: /officers/
 
 ## <a name="Officers"></a>Officers<a href="#Officers"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-###  <a name="Myles">[Myles Frantz](https://franceme.github.io), President<a href="#Myles"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Myles has entered the playing field.
+### <a name="Alex">[Alex Hicks](https://awhicks.github.io), President<a href="#Alex"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Alex">[Alex Hicks](https://awhicks.github.io), Vice President<a href="#Alex"><i class="fa fa-link" aria-hidden="true"></i></a>
+Alex has taken control from Myles.
 
-Alex is running mid to push the agenda forward.
+###  <a name="Mohannad">[Mohannad Elhamod](https://wordpress.cs.vt.edu/elhamod/), Vice President<a href="#Mohannad"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Kylie">[Kylie Davidson](https://www.linkedin.com/in/kylie-davidson-96a069101), Secretary<a href="#Kylie"><i class="fa fa-link" aria-hidden="true"></i></a>
+Mohannad is The Grand Vizier 
 
-Kylie ensures everything is documented.
+### <a name="Shreya">[Shreya Malhotra](https://sites.google.com/vt.edu/shreyamalhotra/home), Secretary<a href="#Shreya"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Joshua">[Joshua Detwiler](https://jdetwiler.tech), Treasurer<a href="#Joshua"><i class="fa fa-link" aria-hidden="true"></i></a>
+Shreya ensures everything is documented.
 
-Joshua controls the flow of money.
+### <a name="Joshua">[Aman Saraf](https://www.linkedin.com/in/amsrf/), Treasurer<a href="#Aman"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Shakiba">[Shakiba Davari](https://sites.google.com/vt.edu/sdavari/home), Past President<a href="#Shakiba"><i class="fa fa-link" aria-hidden="true"></i></a>
+Aman controls the flow of money.
+  
+###  <a name="Myles">[Myles Frantz](https://franceme.github.io),Past President<a href="#Myles"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Shakiba is the watchful eye.
+Myles is the watchful eye.
