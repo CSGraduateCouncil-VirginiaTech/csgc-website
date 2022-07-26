@@ -48,8 +48,8 @@ There are other sources of travel funding.
 
 ### <a name="Gradschool"></a>Grad School<a href="#Gradschool"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-- GSA Travel Fund Program (TFP): details [here](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/). (Twice a year)
-- GSA GRDP: details [here](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/graduate-research-development-program/). (Twice a year)
+- GSA Travel Fund Program (TFP): details [here](https://gpss.vt.edu/programs/tfp.html). (Twice a year)
+- GSA GRDP: details [here](https://gpss.vt.edu/programs/grdp.html). (Twice a year)
 
 ### <a name="Conference-specific"></a>Conference-specific<a href="#Conference-specific"><i class="fa fa-link" aria-hidden="true"></i></a>
 
