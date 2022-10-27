@@ -17,7 +17,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 - *What*: Course Request Panel
 - *When*: Friday, October 28, 12:00-1:00PM
-- *Where*: Torg 1210 & via Zoom
+- *Where*: GLC Room F & via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/4ve6FJxz154gZbrL6)
 
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
