@@ -13,6 +13,17 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+#### CSGC Hike
+
+- *What*: Going Hiking!
+- *When*: Sunday, November 13, 12:45-3:00PM
+- *Where*: [Coal Mining Heritage Park](https://goo.gl/maps/rMshEwDzPuYqkQKp8)
+- *Details*: See more information and sign up using this [link](https://forms.gle/bPyAdhKuvQ1MxaZc7)
+
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Fall2022"></a>Spring 2022<a href="#Fall2022"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 #### CSGC Course Request/Q&A Panel
 
 - *What*: Course Request Panel
@@ -20,16 +31,14 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 - *Where*: GLC Room F & via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/4ve6FJxz154gZbrL6)
 
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-### <a name="Spring2022"></a>Spring 2022<a href="#Spring2022"><i class="fa fa-link" aria-hidden="true"></i></a>
-
 #### CSGC Lightning Talks
 
 - *What*: CSGC Lightning Talks
 - *When*: Thursday, October 15, 6:00-7:00 PM
 - *Where*: GLC Room F & via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/psYEuTgBtavNZoTr6)
+
+### <a name="Spring2022"></a>Spring 2022<a href="#Spring2022"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC End of Semester Event
 
