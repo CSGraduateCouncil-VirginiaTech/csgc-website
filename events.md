@@ -16,7 +16,7 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 #### CSGC Qualifier Q&A
 
 - *What*: CSGC Qualifier Q&A
-- *When*: Sunday, November 13, 12:45-3:00PM
+- *When*: Friday, December 2, 4:00-5:00PM
 - *Where*: GLC Room B and via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/7kWJc5cr5mjBkxjT7)
 
