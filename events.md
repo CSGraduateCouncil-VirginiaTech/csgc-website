@@ -13,16 +13,17 @@ You may see the CS Grad Council Google Calender [here](https://calendar.google.c
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+### <a name="Fall2022"></a>Spring 2022<a href="#Fall2022"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 #### CSGC Qualifier Q&A
 
 - *What*: CSGC Qualifier Q&A
 - *When*: Friday, December 2, 4:00-5:00PM
 - *Where*: GLC Room B and via Zoom
 - *Details*: See more information and sign up using this [link](https://forms.gle/7kWJc5cr5mjBkxjT7)
-
-## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-### <a name="Fall2022"></a>Spring 2022<a href="#Fall2022"><i class="fa fa-link" aria-hidden="true"></i></a>
+- *Video*: [Recording](https://video.vt.edu/media/1_v4pvg139)
 
 #### CSGC Hike
 
