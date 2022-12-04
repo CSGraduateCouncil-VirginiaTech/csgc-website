@@ -41,6 +41,7 @@ Steps to change your research hours (CS 5994 for MS and CS 7994 for PhD):
 * [VT-&gt;IEEE](https://ieeexplore-ieee-org.ezproxy.lib.vt.edu/)
 * [2021 Qualifier Link](https://people.cs.vt.edu/kluther/qualifier/2021/)
 * [2022 Qualifier Link](https://people.cs.vt.edu/gracanin/qualifier/2022/)
+* [2023 Qualifier Link](https://people.cs.vt.edu/gracanin/qualifier/2023/)
 
 ## <a name="AcademicLinks"></a>Academic Links<a href="#AcademicLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
