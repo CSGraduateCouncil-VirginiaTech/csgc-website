@@ -39,6 +39,9 @@ You can always access detailed information about the Graduate and Professional S
 
 Before each GPSS meeting, you can leave your anonymous comments on the resolutions that will be read and voted on at that meeting. If you are For, or Against a resolution, please leave your comments on that resolution in the following Google Form so your representatives can effectively relay this to GPSS, and represent your concerns before the resolution is voted on.
 
-* On the GPSS Meeting on Nov 18, Resolution O, P, Q, R, S will be read for the second time and voted on! Resolutions T, U, V will be read for the first time, and will be voted on in the meeting after. Please leave your comments on these resolutions in [this Google From](https://forms.gle/YAP1RurkHHgY72g2A).
+* On March 20th 2023, the Board of Visitors (BoV) will have a meeting to discuss the tuition and fees (or the possibility to lower them) required by students. There will be a [public comment opportunity before this on March 2nd, 2023](https://vtx.vt.edu/articles/2023/02/bov-public-comment-2023.html).
+  * If you would like to submit a comment, [follow this link](https://bov.vt.edu/comments/comment.php).
+  * If you would like to register to comment, [follow this link](https://bov.vt.edu/comments/register.php).
+  * If you would like to ask GPSS to include your comment in their timeslot, [follow this link](https://docs.google.com/forms/d/e/1FAIpQLSc6dzQtv5kZSe37k7RAzbufZg9Pz4qOtwOl4-PZ63i9kBGu9g/viewform?usp=sf_link).
 
 You can also send an email to [csgc-gpss@cs.vt.edu](mailto:csgc-gpss@cs.vt.edu) to contact the CS department's representitives.
