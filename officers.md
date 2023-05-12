@@ -25,6 +25,10 @@ Wesley ensures everything is documented.
 
 Alexandra controls the flow of money.
   
+###  <a name="Apoorva">[Apoorva Srivastava](https://csgrad.cs.vt.edu/officers/), MEng Representative<a href="#Apoorva"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+Apoorva collects knowledge.
+  
 ###  <a name="Alex">[Alex Hicks](https://awhicks.github.io), Past President<a href="#Alex"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 Alex is the watchful eye.
