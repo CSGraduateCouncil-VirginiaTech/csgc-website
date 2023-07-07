@@ -74,7 +74,7 @@ Jamie Sikora |
 Eli Tilevich | Annette Feng
 Joseph G. Trant | 
 Bimal Viswanath | Jiameng Pu
-Layne Watson | Joshua Chance Detwiler
+Layne Watson | 
 Dan Williams | 
 Yalong Yang | 
 Danfeng (Daphne) Yao | Myles Frantz
