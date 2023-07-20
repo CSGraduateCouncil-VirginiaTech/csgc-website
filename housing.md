@@ -6,8 +6,6 @@ permalink: /housing/
 
 ### <a name="StartingOutLinks"></a>Starting Out Links<a href="#StartingOutLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-- [Graduate School Housing Information](https://graduateschool.vt.edu/student-life/housing.html)
-- [An apartments guide](https://apartmentsinblacksburg.com/)
 - [VT Off-Campus Housing](https://www.techoffcampus.com)
 - [Facebook VT Housing, Sublets, and Roommages Group](https://facebook.com/groups/361159194086916)
 
