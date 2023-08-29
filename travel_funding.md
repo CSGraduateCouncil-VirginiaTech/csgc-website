@@ -32,8 +32,8 @@ funding awards in a given year.
 
 Due to funding constraints, support levels are limited to:
 * $200 for virtual attendance
-* $400 for travel within the US
-* $600 for international travel
+* $500 for travel within the US
+* $750 for international travel
 
 Getting support from other sources, such as your advisor and the GSA, is also helpful.
 When needed, please consider additional sources of funding and support, such as your advisor, [TFP](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/), or the conference itself.
