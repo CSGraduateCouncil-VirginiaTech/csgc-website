@@ -24,7 +24,7 @@ Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event
 	**Note:** this mailing list is open to anyone with a vt.edu email address, including the faculty members.
 * Please address sensitive questions or concerns to [gradcouncil@cs.vt.edu](mailto:gradcouncil@cs.vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
 
-* To connect with other CS@VT grad students, you can join this [Discord Server](https://docs.google.com/document/d/1h9vprpDdoIkWz8ta12GbKWO-siAQJN26gDEmV2_4goU/edit?disco=AAAAH2gM-3Y).
+* To connect with other CS@VT grad students, you can join this [Discord Server](https://docs.google.com/document/d/1Q58z2HEEVNHKJPZWYFQJwQe7v6vkUiWzHNt2eDm6t1U/edit?usp=sharing).
 
 * Please feel free to take a look at our [GitHub repositories](https://github.com/CSGraduateCouncil-VirginiaTech) and participate (e.g. updating this website) if you wish.
 
