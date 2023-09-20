@@ -5,17 +5,18 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Thursday, 2:00 to 3:00
-* Jan 30
-* Feb 16
-* March 2
-* Mar 16
-* Mar 30
-* Apr 13
-* Apr 27
-* May 11
+Time: Every other Monday, 12:30 to 1:30
+* Aug 28
+* Sep 11
+* Sep 25
+* Oct 09
+* Oct 23
+* Nov 06
+* Nov 20
+* Dec 04
+* Dec 18
 
-Location: Torg 3160A and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch.
