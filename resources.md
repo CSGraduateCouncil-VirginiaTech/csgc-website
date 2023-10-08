@@ -25,17 +25,11 @@ Steps to change your research hours (CS 5994 for MS and CS 7994 for PhD):
 
 ## <a name="DepartmentLinks"></a>Department Links<a href="#DepartmentLinks"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-* [Departmental Research Resources](https://cs.vt.edu/Research.html)
-* [Reading Groups](https://cs.vt.edu/Research/ReadingGroups.html)
 * [Survey for requesting travel funds](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link)
 * [Center for Instructional Development and Educational Research](https://csgrad.cs.vt.edu/cider/)
 * [Computer Science Compact for the Advisor relationship](https://gpc.cs.vt.edu/resources/CSCompact.pdf)
 * [List of faculty seeking students](https://docs.google.com/spreadsheets/d/1BD1zxg6qMXW01GLofcS1ny034B7aQVT9zjuZF1CUgBQ)
-* [Institutional Publication Metrics for Computer Science](http://csmetrics.org)
-* [Books](http://www.lib.vt.edu/)
 * [Library](https://www.lib.vt.edu/)
-* [FacultyLinks](https://hosting.cs.vt.edu/facsearch/)
-* [Reimbursement](https://drive.google.com/file/d/1XFSX85dnLIQlxeQd81WzWP3h6xwJSfk-/view)
 * [Final Exam](https://ess.graduateschool.vt.edu/pages/NewExam.php)
 * [VT-&gt;ACM](https://dl-acm-org.ezproxy.lib.vt.edu/)
 * [VT-&gt;IEEE](https://ieeexplore-ieee-org.ezproxy.lib.vt.edu/)
@@ -48,8 +42,6 @@ Steps to change your research hours (CS 5994 for MS and CS 7994 for PhD):
 * [The Graduate Computer Science Website](https://cs.vt.edu/Graduate)
 * [An administrative website for Computer Science](https://gpc.cs.vt.edu)
 * [Computer Science Intranet](https://admin.cs.vt.edu)
-* [VT Computer Science](https://cs.vt.edu/Graduate)
-* [Several Student Groups](https://cs.vt.edu/Community/studentgroups.html)
 * [Advanced Courses](https://hosting.cs.vt.edu/specialtopics/graduate/)
 * [Open Classes](https://banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_DispRequest)
 * [IRB](https://secure.research.vt.edu/irb/) - Creating Surveys
