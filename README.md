@@ -23,7 +23,15 @@ There are a couple things you have to do first
   > Asking a [current member](https://csgrad.cs.vt.edu/Officers/) to add you.
 2. Create an issue and/or pull request
 3. Request one of the e-board members for a code review
-4. Once it's been accepted, merge and then delete the branch 
+4. Once it's been accepted, merge and then delete the branch
+
+## How does the website work?
+
+The [new page](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/README.md#how-do-i-create-a-new-page) section below explains how a particular workflow might look (for adding a new page) but most changes to the existing files can be done within your browser.
+
+Once you have been added to the organization (or fork the repository and modify your copy), you can navigate to one of the markdown files that describes the pages (for example to add a new housing recommendation, you would edit housing.md) and in the top right corner of the file, click on the pencil to edit the file directly in your browser. Once you have completed your changes and commit, GitHub will prompt you to create a new branch for your change (we do not allow pushes directly) that you will able to then follow the steps in [How can I contribute?](https://github.com/CSGraduateCouncil-VirginiaTech/csgc-website/blob/master/README.md#how-can-i-contribute)
+
+Once your change has been reviewed by and eboard member and merged in, a GitHub action will execute, building an updated version of the website to deploy. However, you will not be able to see your changes reflected on the [Grad Council website](https://csgrad.cs.vt.edu) just yet. There is a crontab that runs every night (around 2:00) that deploys the new version of the website. If you do not see your changes reflected in the website a day after they've been merged in, please raise an issue or contact Grad Council to let us know!
 
 ## How do I create a new page?
 
