@@ -5,16 +5,14 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Monday, 12:30 to 1:30
-* Aug 28
-* Sep 11
-* Sep 25
-* Oct 09
-* Oct 23
-* Nov 06
-* Nov 20
-* Dec 04
-* Dec 18
+Time: Every other Monday, 12:30 to 1:30 (Fall 2023)
+* ~~Aug 28~~
+* ~~Sep 11~~
+* ~~Sep 25~~
+* ~~Oct 09~~
+* ~~Oct 23~~
+* ~~Nov 06~~
+* Nov 27
 
 Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
@@ -30,7 +28,7 @@ Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event
 
 ## <a name="MinutesandConstitution"></a>Minutes and Constitution<a href="#MinutesandConstitution"><i class="fa fa-link" aria-hidden="true"></i></a>
 If you're interested in what happens at Grad Council meetings, you've come to the right place.
-Meeting minutes live in this Google Drive [folder](https://drive.google.com/drive/folders/0B0b9Zb_kmZenbG1VTnhadTNHVDg?usp=sharing) and can be viewed by anyone with a vt.edu email address.
+Meeting minutes live in this Google Drive [folder](https://drive.google.com/drive/u/1/folders/1MHa2euOTSwVi1UoUwMvtx2DwJXaNA9Ad) and can be viewed by anyone with a vt.edu email address.
 
 The Grad Council abides by this [constitution](https://docs.google.com/document/d/1YrcqQCxML7jFIrtPRbh80wkqDbkA-7syDoGd6AdtGpQ/edit?usp=sharing), approved by the acting graduate council on October 19, 2017.
 
@@ -39,10 +37,5 @@ The Grad Council abides by this [constitution](https://docs.google.com/document/
 You can always access detailed information about the Graduate and Professional Student Senate(GPSS) [Resolutions](https://gpss.vt.edu/the-senate/resolutions.html) and the [Senate Meetings and Minutes](https://gpss.vt.edu/the-senate/senate-meetings-minutes.html) from their [Website](https://gpss.vt.edu/). 
 
 Before each GPSS meeting, you can leave your anonymous comments on the resolutions that will be read and voted on at that meeting. If you are For, or Against a resolution, please leave your comments on that resolution in the following Google Form so your representatives can effectively relay this to GPSS, and represent your concerns before the resolution is voted on.
-
-* On March 20th 2023, the Board of Visitors (BoV) will have a meeting to discuss the tuition and fees (or the possibility to lower them) required by students. There will be a [public comment opportunity before this on March 2nd, 2023](https://vtx.vt.edu/articles/2023/02/bov-public-comment-2023.html).
-  * If you would like to submit a comment, [follow this link](https://bov.vt.edu/comments/comment.php).
-  * If you would like to register to comment, [follow this link](https://bov.vt.edu/comments/register.php).
-  * If you would like to ask GPSS to include your comment in their timeslot, [follow this link](https://docs.google.com/forms/d/e/1FAIpQLSc6dzQtv5kZSe37k7RAzbufZg9Pz4qOtwOl4-PZ63i9kBGu9g/viewform?usp=sf_link).
 
 You can also send an email to [csgc-gpss@cs.vt.edu](mailto:csgc-gpss@cs.vt.edu) to contact the CS department's representitives.
