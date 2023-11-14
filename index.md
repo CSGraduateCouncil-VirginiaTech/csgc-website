@@ -17,3 +17,5 @@ Here are some of our activities:
 
 Please find the qr code listed below.
 ![QR Code](../assets/imgs/qr-code.png)
+
+If you attended the HBCU/MSI Summit and want more information, see some resources we have put [together](/hbcu_msi_summit/)
