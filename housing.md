@@ -57,6 +57,18 @@ permalink: /housing/
 - [Terrace View](https://www.terraceviewapartments.com)
 	- Apartments
 	- It’s close to a bus stop
+- University Terrace
+	- Apartments and condos
+	- It’s close to a bus stop
+- Park 37
+  	- Apartments
+  	- It’s close to a bus stop
+- The Hub
+  	- Apartments
+  	- It’s close to a bus stop
+- The Union
+ 	- Apartments
+  	- It’s close to a bus stop
 
 #### <a name="TomsCreek"></a>Tom’s Creek<a href="#TomsCreek"><i class="fa fa-link" aria-hidden="true"></i></a>
 
@@ -75,6 +87,9 @@ permalink: /housing/
 - Ramble Ridge (next to Knollwood)
 	- Townhouses
 	- Near bus stops (but know that the busses that take you here run on a very different schedule from the main campus busses)
+ - Vue Apartments
+   	- Apartments
+   	- Near bus stops (but know that the busses that take you here run on a very different schedule from the main campus busses)
 
 #### <a name="Christiansburg"></a>Christiansburg<a href="#Christiansburg"><i class="fa fa-link" aria-hidden="true"></i></a>
 
