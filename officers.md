@@ -11,7 +11,7 @@ permalink: /officers/
 
 ### <a name="Wesley">[Wesley Woo](https://wesmwoo.github.io), President<a href="#Wesley"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Danny has taken control from Alex.
+Wesley has taken control from Danny.
 
 ###  <a name="Tauhid">[Tauhid Nabi](https://tauhidun.github.io/), Vice President<a href="#Tauhid"><i class="fa fa-link" aria-hidden="true"></i></a>
 
