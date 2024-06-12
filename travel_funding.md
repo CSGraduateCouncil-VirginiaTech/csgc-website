@@ -11,7 +11,8 @@ Requests will be reviewed and (mostly) granted on a rolling basis.
 If you submit the survey and don't hear back for a few days, please contact the [Treasurer](/officers/) by email directly.
 
 See below under "Policy" to see if you qualify.
-If so, fill out this [Travel Fund Request Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc5SDVLgrrGsBzj25m_ChcLwIUKeVY7qhzA7-c957jbNfxnJQ/viewform?usp=sf_link).
+If so, fill out this [Travel Fund Request Form](https://forms.gle/haEEivAHoTVrFJaE7).
+
 
 ### <a name="Policy"></a>Policy<a href="#Policy"><i class="fa fa-link" aria-hidden="true"></i></a>
 
@@ -20,7 +21,7 @@ presentation accepted at a conference **once per fiscal year** (July 1
 through June 30). The 1st day of your trip defines which fiscal year it
 is in.
 
-Requests for support must be submitted via the *Travel Fund Request Form* **before**
+Requests for support must be submitted via the [*Travel Fund Request Form*](https://forms.gle/haEEivAHoTVrFJaE7) **before**
 the departure date of your travel. Presuming the travel request is approved, a
 link to a travel approval form will be provided along with further instructions.
 
@@ -35,21 +36,18 @@ Due to funding constraints, support levels are limited to:
 * $500 for travel within the US
 * $750 for international travel
 
-Getting support from other sources, such as your advisor and the GSA, is also helpful.
-When needed, please consider additional sources of funding and support, such as your advisor, [TFP](https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/), or the conference itself.
+It can be helpful to get additional support elsewhere, such as through your advisor, through the conference itself, or through one of the other sources listed below.
 
 ## <a name="Othersourcesoftravelfunding"></a>Other sources of travel funding<a href="#Othersourcesoftravelfunding"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-There are other sources of travel funding.
-
 ### <a name="Department"></a>Department<a href="#Department"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-- CHCI Funding, see [instructions here](http://hci.vt.edu/programs/) about the Travel Funding Program
+- CHCI Funding (for HCI-related research). See [instructions here](http://hci.vt.edu/programs/) about the Travel Funding Program.
 
 ### <a name="Gradschool"></a>Grad School<a href="#Gradschool"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-- GSA Travel Fund Program (TFP): details [here](https://gpss.vt.edu/programs/tfp.html). (Twice a year)
-- GSA GRDP: details [here](https://gpss.vt.edu/programs/grdp.html). (Twice a year)
+- GPSS Travel Fund Program (TFP): details [here](https://gpss.vt.edu/programs/tfp.html). (Four cycles a year)
+- GPSS GRDP: details [here](https://gpss.vt.edu/programs/grdp.html). (Twice a year)
 
 ### <a name="Conference-specific"></a>Conference-specific<a href="#Conference-specific"><i class="fa fa-link" aria-hidden="true"></i></a>
 
