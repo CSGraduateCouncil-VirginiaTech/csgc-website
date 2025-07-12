@@ -6,37 +6,33 @@ permalink: /travel_funding/
 
 ## <a name="Departmentalfunding"></a>Departmental funding<a href="#Departmentalfunding"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-The department offers some financial support for CS graduate students to attend conferences.
-Requests will be reviewed and (mostly) granted on a rolling basis.
-If you submit the survey and don't hear back for a few days, please contact the [Treasurer](/officers/) by email directly.
+The department provides limited financial support for Computer Science Ph.D. 
+students to present at conferences. Funding requests are reviewed on a rolling basis, 
+subject to the availability of funds. If you have completed the survey and have not 
+received a response within one week, please contact [Teresa Hall](https://website.cs.vt.edu/people/administration/teresa-hall.html) directly via email.
 
 See below under "Policy" to see if you qualify.
-If so, fill out this [Travel Fund Request Form](https://forms.gle/haEEivAHoTVrFJaE7).
-
+If so, fill out this [Travel Fund Request Form](https://docs.google.com/forms/d/e/1FAIpQLScGrqnxm2iNl_d5omNoOGsYCo6R-CvDpfy4_Tkr_7U5BaVs7g/viewform). 
 
 ### <a name="Policy"></a>Policy<a href="#Policy"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Our goal is to help support any student who has a refereed paper or
-presentation accepted at a conference **once per fiscal year** (July 1
-through June 30). The 1st day of your trip defines which fiscal year it
-is in.
+The department aims to support Computer Science Ph.D. students who have made archival 
+contributions—such as refereed papers or presentations—accepted at conferences, where 
+the student is listed as the presenter. Each student is eligible for funding **once 
+per fiscal year** (July 1–June 30). The first day of travel determines the applicable 
+fiscal year. The expectation is that students attend the conference in its entirety.
 
-Requests for support must be submitted via the [*Travel Fund Request Form*](https://forms.gle/haEEivAHoTVrFJaE7) **before**
-the departure date of your travel. Presuming the travel request is approved, a
-link to a travel approval form will be provided along with further instructions.
-
-Requests for support for additional trips in a given year, or for
-conference attendance without a presentation, will be considered but
-not necessarily approved in all cases. Senior PhD students, for whom
-multiple trips in a year are common, are more likely to receive multiple
-funding awards in a given year.
+Requests for financial support must be submitted via the [Travel Fund Request Form](https://docs.google.com/forms/d/e/1FAIpQLScGrqnxm2iNl_d5omNoOGsYCo6R-CvDpfy4_Tkr_7U5BaVs7g/viewform) 
+before the departure date of travel. All requests submitted after the departure date will be denied. 
+Presuming the travel request is approved, a travel approval form will be provided along with further instructions.
 
 Due to funding constraints, support levels are limited to:
 * $200 for virtual attendance
-* $500 for travel within the US
-* $750 for international travel
+* $750 for travel within the US or international travel
 
-It can be helpful to get additional support elsewhere, such as through your advisor, through the conference itself, or through one of the other sources listed below.
+You are highly encouraged to seek additional support elsewhere, such as through your advisor, the conference directly, 
+or through one of the other sources listed below.
+
 
 ## <a name="Othersourcesoftravelfunding"></a>Other sources of travel funding<a href="#Othersourcesoftravelfunding"><i class="fa fa-link" aria-hidden="true"></i></a>
 
