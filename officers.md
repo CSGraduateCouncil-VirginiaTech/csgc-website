@@ -21,9 +21,9 @@ Vee makes sure Bernie is on time.
 
 Sindhuja ensures everything is documented.
 
-### <a name="Syed">[Syed Ibrahim Mustafa Shah](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/), Treasurer<a href="#Syed"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Ibrahim">[Syed Ibrahim Mustafa Shah](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/), Treasurer<a href="#Ibrahim"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Syed controls the flow of money.
+Ibrahim controls the flow of money.
   
 ###  <a name="William">[William Furgerson](https://www.linkedin.com/in/william-furgerson/), MEng Representative<a href="#William"><i class="fa fa-link" aria-hidden="true"></i></a>
 
