@@ -4,31 +4,31 @@ title: Officers
 permalink: /officers/
 ---
 
-# <a name="2023-2024"></a>2023-2024<a href="#2023-2024"><i class="fa fa-link" aria-hidden="true"></i></a>
+# <a name="2025-2026"></a>2025-2026<a href="#2025-2026"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 ## <a name="Officers"></a>Officers<a href="#Officers"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 
-### <a name="Wesley">[Wesley Woo](https://wesmwoo.github.io), President<a href="#Wesley"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Bernie">[Bernie Moussad](https://bernym12.github.io), President<a href="#Bernie"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Wesley has taken control from Danny.
+Bernie has taken control from Wesley.
 
-###  <a name="Tauhid">[Tauhid Nabi](https://tauhidun.github.io/), Vice President<a href="#Tauhid"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="Vee">[Vee Pettit](https://www.linkedin.com/in/virginiapettit/), Vice President<a href="#Vee"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Tauhid makes sure Danny is on time.
+Vee makes sure Bernie is on time.
 
-### <a name="Hasan">[Hasan Arif](https://www.linkedin.com/in/kazi-hasan-ibn-arif-8b78a61a3/), Secretary<a href="#Hasan"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Sindhuja">[Sindhuja Madabushi](https://sindhujamadabushi.github.io/), Secretary<a href="#Sindhuja"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Hasan ensures everything is documented.
+Sindhuja ensures everything is documented.
 
-### <a name="Min">[Minhyuk Ko](https://people.cs.vt.edu/minhyukko/), Treasurer<a href="#Min"><i class="fa fa-link" aria-hidden="true"></i></a>
+### <a name="Ibrahim">[Syed Ibrahim Mustafa Shah](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/), Treasurer<a href="#Ibrahim"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Min controls the flow of money.
+Ibrahim controls the flow of money.
   
-###  <a name="Sruthy">[Uma Sruthy Gajula](https://www.linkedin.com/in/uma-sruthy-gajula-111a8515a/), MEng Representative<a href="#Sruthy"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="William">[William Furgerson](https://www.linkedin.com/in/william-furgerson/), MEng Representative<a href="#William"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Sruthy collects knowledge.
+William collects knowledge.
   
-###  <a name="Danny">[Danny Manesh](https://maneshd.github.io/), Past President<a href="#Danny"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="Wesley">[Wesley Woo](https://wesmwoo.github.io/), Past President<a href="#Wesley"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Danny is the watchful eye.
+Wesley is the watchful eye.
