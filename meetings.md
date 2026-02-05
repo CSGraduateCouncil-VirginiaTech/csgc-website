@@ -5,16 +5,17 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Monday, 12:30 to 1:30 (Fall 2023)
-* ~~Aug 28~~
-* ~~Sep 11~~
-* ~~Sep 25~~
-* ~~Oct 09~~
-* ~~Oct 23~~
-* ~~Nov 06~~
-* Nov 27
+Time: Every other Thursday, 11:00 am to 12:00 pm (Spring 2026)
+* ~~Jan 29~~
+* Feb 12
+* Feb 26
+* Mar 12
+* Mar 26
+* Apr 9
+* Apr 23
+* May 7
 
-Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Location: Gilbert 3002 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch.
