@@ -8,27 +8,26 @@ permalink: /officers/
 
 ## <a name="Officers"></a>Officers<a href="#Officers"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+### <a name="Saimon">[Saimon Tsegai](https://49simoney.vercel.app), President<a href="#Saimon"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Bernie">[Bernie Moussad](https://bernym12.github.io), President<a href="#Bernie"><i class="fa fa-link" aria-hidden="true"></i></a>
+Saimon has taken control from Bernie.
 
-Bernie has taken control from Wesley.
+###  <a name="Syed">[Syed Ibrahim Mustafa Shah](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/), Vice President<a href="#Syed"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-###  <a name="Vee">[Vee Pettit](https://www.linkedin.com/in/virginiapettit/), Vice President<a href="#Vee"><i class="fa fa-link" aria-hidden="true"></i></a>
+Syed makes sure Saimon is on time.
 
-Vee makes sure Bernie is on time.
+### <a name="Maha">[Maha Sajid](https://www.linkedin.com/in/maha-sajid-303844103/), Secretary<a href="#Maha"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Sindhuja">[Sindhuja Madabushi](https://sindhujamadabushi.github.io/), Secretary<a href="#Sindhuja"><i class="fa fa-link" aria-hidden="true"></i></a>
+Maha ensures everything is documented.
 
-Sindhuja ensures everything is documented.
+### <a name="Norah">[Norah Ondus](https://www.linkedin.com/in/norah-ondus/), Treasurer<a href="#Norah"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-### <a name="Ibrahim">[Syed Ibrahim Mustafa Shah](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/), Treasurer<a href="#Ibrahim"><i class="fa fa-link" aria-hidden="true"></i></a>
-
-Ibrahim controls the flow of money.
+Norah controls the flow of money.
   
-###  <a name="William">[William Furgerson](https://www.linkedin.com/in/william-furgerson/), MEng Representative<a href="#William"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="Mariana">[Mariana Luiza de Assuncao Soares](https://www.linkedin.com/in/marianasoaresas/), MEng Representative<a href="#Mariana"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-William collects knowledge.
+Mariana collects knowledge.
   
-###  <a name="Wesley">[Wesley Woo](https://wesmwoo.github.io/), Past President<a href="#Wesley"><i class="fa fa-link" aria-hidden="true"></i></a>
+###  <a name="Bernie">[Bernie Moussad](https://bernym12.github.io/), Past President<a href="Bernie"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-Wesley is the watchful eye.
+Bernie is the watchful eye.
