@@ -5,22 +5,34 @@ permalink: /meetings/
 ---
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
-Time: Every other Monday, 12:30 to 1:30 (Fall 2023)
-* ~~Aug 28~~
-* ~~Sep 11~~
-* ~~Sep 25~~
-* ~~Oct 09~~
-* ~~Oct 23~~
-* ~~Nov 06~~
-* Nov 27
+Time: Every other Thursday, 12:00 to 1:00 PM (2026-2027 academic year)
+* ~~Sep 03, 2026~~
+* ~~Sep 17, 2026~~
+* Oct 01, 2026
+* Oct 15, 2026
+* Oct 29, 2026
+* Nov 12, 2026
+* Nov 26, 2026
+* Dec 10, 2026
+* Dec 24, 2026
+* Jan 07, 2027
+* Jan 21, 2027
+* Feb 04, 2027
+* Feb 18, 2027
+* Mar 04, 2027
+* Mar 18, 2027
+* Apr 01, 2027
+* Apr 15, 2027
+* Apr 29, 2027
+* May 13, 2027
 
-Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://calendar.google.com/calendar?cid=dnQuZWR1X240bnQ0aGdlNTBrdjdqajFjZDN1NzllaW1rQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://outlook.office365.com/owa/calendar/b8071a67a1c24b52a753aa284f291979@vt.edu/717f20ee3f524f04a19da13090be229f14179372062621915594/calendar.html).
 
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch.
 
 	**Note:** this mailing list is open to anyone with a vt.edu email address, including the faculty members.
-* Please address sensitive questions or concerns to [gradcouncil@cs.vt.edu](mailto:gradcouncil@cs.vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
+* Please address sensitive questions or concerns to [csgc@vt.edu](mailto:csgc@vt.edu), which is directed **only** to the current year's [elected officers](/officers/).
 
 * To connect with other CS@VT grad students, you can join this [Discord Server](https://docs.google.com/document/d/1Q58z2HEEVNHKJPZWYFQJwQe7v6vkUiWzHNt2eDm6t1U/edit?usp=sharing).
 
