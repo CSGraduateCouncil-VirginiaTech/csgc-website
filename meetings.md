@@ -6,17 +6,24 @@ permalink: /meetings/
 
 ## <a name="Regularmeetings"></a>Regular meetings<a href="#Regularmeetings"><i class="fa fa-link" aria-hidden="true"></i></a>
 Time: Every other Thursday, 12:00 to 1:00 PM (2026-2027 academic year)
-* ~~Sep 03, 2026~~
-* ~~Sep 17, 2026~~
-* Oct 01, 2026
-* Oct 15, 2026
-* Oct 29, 2026
+
+<details open markdown="1">
+<summary>Fall 2026</summary>
+
+* ✓ Sep 03, 2026
+* ✓ Sep 17, 2026
+* ✓ Oct 01, 2026
+* ✓ Oct 15, 2026
+* → **Oct 29, 2026**
 * Nov 12, 2026
 * Nov 26, 2026
 * Dec 10, 2026
-* Dec 24, 2026
-* Jan 07, 2027
-* Jan 21, 2027
+
+</details>
+
+<details markdown="1">
+<summary>Spring 2027</summary>
+
 * Feb 04, 2027
 * Feb 18, 2027
 * Mar 04, 2027
@@ -26,6 +33,8 @@ Time: Every other Thursday, 12:00 to 1:00 PM (2026-2027 academic year)
 * Apr 29, 2027
 * May 13, 2027
 
+</details>
+<br>
 Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://outlook.office365.com/owa/calendar/b8071a67a1c24b52a753aa284f291979@vt.edu/717f20ee3f524f04a19da13090be229f14179372062621915594/calendar.html).
 
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
