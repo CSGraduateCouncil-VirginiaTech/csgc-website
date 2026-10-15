@@ -6,6 +6,18 @@ permalink: /events/past-events/
 
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
+### <a name="Fall2023"></a>Fall 2023<a href="#Fall2023"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+#### Industry-Academia Jobs Panel
+- *What*: Come here a panel discussion from recent VT alums and professors in industry and academia!
+- *When*: 5:30pm-6:30pm ET, Tuesday, November 14th, 2023
+- *Where*: GLC Room F (or on Zoom; link on RSVP form)
+
+#### Lightning Talks
+- *What*: Come hear 3-minute lightning talks on research and other topics of interest!
+- *When*: 6:00pm EST, Thursday, October 12th, 2023
+- *Where*: GLC Room F (or on Zoom; link on RSVP form)
+
 ### <a name="Fall2022"></a>Fall 2022<a href="#Fall2022"><i class="fa fa-link" aria-hidden="true"></i></a>
 
 #### CSGC Qualifier Q&A
