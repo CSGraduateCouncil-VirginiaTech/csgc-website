@@ -4,7 +4,9 @@ title: Events
 permalink: /events/
 ---
 
-The CS Grad Council Google Calender can be found [here](https://outlook.office365.com/owa/calendar/b8071a67a1c24b52a753aa284f291979@vt.edu/717f20ee3f524f04a19da13090be229f14179372062621915594/calendar.html).
+View all our events in the [CS Grad Council calendar](https://outlook.office365.com/owa/calendar/b8071a67a1c24b52a753aa284f291979@vt.edu/717f20ee3f524f04a19da13090be229f14179372062621915594/calendar.html).
+
+Want council events in your own calendar app? [Follow our calendar subscription guide]({{ '/meetings/' | relative_url }}#add-our-events-to-your-calendar) to stay up to date.
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 

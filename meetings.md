@@ -37,6 +37,8 @@ Time: Every other Thursday, 12:00 to 1:00 PM (2026-2027 academic year)
 <br>
 Location: Gilbert 3001 and Zoom. Please access the link from the [Calendar Event](https://outlook.office365.com/owa/calendar/b8071a67a1c24b52a753aa284f291979@vt.edu/717f20ee3f524f04a19da13090be229f14179372062621915594/calendar.html).
 
+{% include events-calendar.md %}
+
 ## <a name="Contact"></a>Contact<a href="#Contact"><i class="fa fa-link" aria-hidden="true"></i></a>
 * See the [mailing list](https://groups.google.com/a/vt.edu/forum/#!forum/csgc-g) to see what we're up to or to get in touch.
 
