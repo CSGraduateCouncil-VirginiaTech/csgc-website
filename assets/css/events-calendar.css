@@ -1,0 +1,14 @@
+.events-calendar { margin: 1rem 0; }
+.calendar-copy-row { display: flex; gap: .5rem; margin-top: .5rem; }
+.calendar-copy-row input { flex: 1; min-width: 0; padding: .65rem; border: 1px solid #aaa; border-radius: .25rem; font: inherit; font-size: .8rem; }
+.events-calendar button { cursor: pointer; font: inherit; }
+.calendar-copy-row button { padding: .6rem .9rem; border: 1px solid #8b2525; border-radius: .25rem; background: #8b2525; color: white; white-space: nowrap; }
+.calendar-copy-status { min-height: 1.5em; margin: .25rem 0 .75rem; font-size: .85rem; }
+.calendar-tabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .25rem; }
+.calendar-tabs[hidden], .calendar-panel[hidden] { display: none; }
+.calendar-tabs button { padding: .65rem .3rem; border: 1px solid #ccc; border-radius: .25rem .25rem 0 0; background: #f5f5f5; color: #333; font-size: .8rem; overflow-wrap: anywhere; }
+.calendar-tabs button[aria-selected="true"] { background: #8b2525; border-color: #8b2525; color: white; }
+.calendar-panel { padding: 1rem; border: 1px solid #ccc; }
+.calendar-panel h4 { margin-top: 0; }
+.calendar-panel p:last-child { margin-bottom: 0; }
+.events-calendar button:focus-visible, .events-calendar input:focus-visible, .calendar-panel:focus-visible { outline: 3px solid #2684c6; outline-offset: 2px; }
