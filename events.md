@@ -10,11 +10,6 @@ Want council events in your own calendar app? [Follow our calendar subscription 
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### Fall Hike
-- *What*: Fall hike along the Huckleberry Trail. [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSdNFzY6k4baHxkqQ2ILUu68nI8TywM6ve1OP_6e5WKdgyW7Ug/viewform?usp=sharing&ouid=117030234646282934009)
-- *When*: Saturday, October 24, at 11:00 AM
-- *Where*: Start at Food Lion in Hethwood and hike to Rising Silo.
-
 #### Scavenger Hunt
 - *What*: A scavenger hunt with CHCI Council and HFES Chapter to explore labs and learn about research in the CS community. Prizes will be available! [RSVP here](https://forms.gle/FYgbKY3FsMxWnkZn8).
 - *When*: Friday, October 30, 2:00–4:00 PM
@@ -32,6 +27,11 @@ Want council events in your own calendar app? [Follow our calendar subscription 
 - *Where*: Gilbert 4211
 
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+#### Fall Hike
+- *What*: Fall hike along the Huckleberry Trail.
+- *When*: Saturday, October 24, at 11:00 AM
+- *Where*: Start at Food Lion in Hethwood and hike to Rising Silo.
 
 #### Back-to-School Picnic
 - *What*: CSGC Welcome Back Picnic
