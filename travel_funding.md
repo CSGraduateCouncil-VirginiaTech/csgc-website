@@ -9,7 +9,7 @@ permalink: /travel_funding/
 The department provides limited financial support for Computer Science Ph.D. 
 students to present at conferences. Funding requests are reviewed on a rolling basis, 
 subject to the availability of funds. If you have completed the survey and have not 
-received a response within one week, please contact [Teresa Hall](https://website.cs.vt.edu/people/administration/teresa-hall.html) directly via email.
+received a response within one week, please contact [Teresa Jording](https://website.cs.vt.edu/people/administration/teresa-jording.html) directly via email.
 
 See below under "Policy" to see if you qualify.
 If so, fill out this [Travel Fund Request Form](https://docs.google.com/forms/d/e/1FAIpQLScGrqnxm2iNl_d5omNoOGsYCo6R-CvDpfy4_Tkr_7U5BaVs7g/viewform). 
@@ -25,10 +25,6 @@ fiscal year. The expectation is that students attend the conference in its entir
 Requests for financial support must be submitted via the [Travel Fund Request Form](https://docs.google.com/forms/d/e/1FAIpQLScGrqnxm2iNl_d5omNoOGsYCo6R-CvDpfy4_Tkr_7U5BaVs7g/viewform) 
 before the departure date of travel. All requests submitted after the departure date will be denied. 
 Presuming the travel request is approved, a travel approval form will be provided along with further instructions.
-
-Due to funding constraints, support levels are limited to:
-* $200 for virtual attendance
-* $750 for travel within the US or international travel
 
 You are highly encouraged to seek additional support elsewhere, such as through your advisor, the conference directly, 
 or through one of the other sources listed below.
