@@ -14,9 +14,8 @@ Time: Every other Thursday, 12:00 to 1:00 PM (2026-2027 academic year)
 * ✓ Sep 17, 2026
 * ✓ Oct 01, 2026
 * ✓ Oct 15, 2026
-* → **Oct 29, 2026**
-* Nov 12, 2026
-* Nov 26, 2026
+* ✓ Oct 29, 2026
+* → **Nov 12, 2026**
 * Dec 10, 2026
 
 </details>

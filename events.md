@@ -10,12 +10,6 @@ Want council events in your own calendar app? [Follow our calendar subscription 
 
 ## <a name="UpcomingEvents"></a>Upcoming Events<a href="#UpcomingEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
 
-#### Scavenger Hunt
-- *What*: A scavenger hunt with CHCI Council and HFES Chapter to explore labs and learn about research in the CS community. Prizes will be available! [RSVP here](https://forms.gle/FYgbKY3FsMxWnkZn8).
-- *When*: Friday, October 30, 2:00–4:00 PM
-- *Where*: Gilbert Place 2304
-
-
 #### Biweekly Meetings
 - *What*: The CS Grad Council's biweekly meeting -- all CS grad students are welcome!
 - *When*: Alternating Thursdays, 12:00 - 1:00 PM
@@ -27,6 +21,11 @@ Want council events in your own calendar app? [Follow our calendar subscription 
 - *Where*: Gilbert 4211
 
 ## <a name="PastEvents"></a>Past Events<a href="#PastEvents"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+#### Scavenger Hunt
+- *What*: A scavenger hunt with CHCI Council and HFES Chapter to explore labs and learn about research in the CS community. Prizes will be available!
+- *When*: Friday, October 30, 2:00–4:00 PM
+- *Where*: Gilbert Place 2304
 
 #### Fall Hike
 - *What*: Fall hike along the Huckleberry Trail.
